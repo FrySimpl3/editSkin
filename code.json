@@ -1,0 +1,1226 @@
+{
+    "🔥 Địa Ngục & Hỏa Diểm ": [
+        {
+            "name": "🔥 Hỏa Ngục Hắc Ám",
+            "colors": { "Body": "#18181b", "Markings": "#27272a", "Flank": "#dc2626", "Underbelly": "#f97316", "Detail": "#facc15", "Display": "#ef4444", "Eyes": "#fbbf24", "Mouth": "#991b1b", "Teeth": "#fef08a", "Claws": "#09090b" }
+        },
+        {
+            "name": "🔥 Hỏa Ngục Dung Nham",
+            "colors": { "Body": "#1a0500", "Markings": "#4a0e00", "Flank": "#ff3700", "Underbelly": "#ff9900", "Detail": "#ffea00", "Display": "#ffff55", "Eyes": "#ffffff", "Mouth": "#bf0603", "Teeth": "#ffeaa7", "Claws": "#000000" }
+        },
+        {
+            "name": "💀 Vực Thẳm Âm Ti",
+            "colors": { "Body": "#080710", "Markings": "#1e1035", "Flank": "#4a0e4e", "Underbelly": "#39ff14", "Detail": "#00ffcc", "Display": "#76ff03", "Eyes": "#39ff14", "Mouth": "#12002b", "Teeth": "#e2e8f0", "Claws": "#00ffcc" }
+        },
+        {
+            "name": "🩸 Huyết Nguyệt Ma Quái",
+            "colors": { "Body": "#110000", "Markings": "#2b0000", "Flank": "#660000", "Underbelly": "#b30000", "Detail": "#ff0033", "Display": "#ff4d6d", "Eyes": "#ff0000", "Mouth": "#3d0000", "Teeth": "#fff0f3", "Claws": "#ff0033" }
+        },
+        {
+            "name": "🌋 Nham Thạch Magma",
+            "colors": { "Body": "#1a0500", "Markings": "#4a0e00", "Flank": "#ff3700", "Underbelly": "#ffea00", "Detail": "#ff7700", "Display": "#ffff55", "Eyes": "#ffffff", "Mouth": "#bf0603", "Teeth": "#ffeaa7", "Claws": "#000000" }
+        },
+        {
+            "name": "🔥 Lửa Xanh Địa Ngục",
+            "colors": { "Body": "#021c24", "Markings": "#053b4c", "Flank": "#00b4d8", "Underbelly": "#90e0ef", "Detail": "#caf0f8", "Display": "#ffffff", "Eyes": "#00f0ff", "Mouth": "#03045e", "Teeth": "#e0f7fa", "Claws": "#0077b6" }
+        },
+        {
+            "name": "😈 Chúa Quỷ Lucifer",
+            "colors": { "Body": "#0a0002", "Markings": "#260007", "Flank": "#590011", "Underbelly": "#a30020", "Detail": "#ffd700", "Display": "#ff0037", "Eyes": "#ffd700", "Mouth": "#3b000a", "Teeth": "#fff0f3", "Claws": "#000000" }
+        },
+        {
+            "name": "🔥 Tro Tàn Hỏa Ngục",
+            "colors": { "Body": "#141414", "Markings": "#242424", "Flank": "#3d3d3d", "Underbelly": "#ff4500", "Detail": "#ff8c00", "Display": "#ffd700", "Eyes": "#ff3300", "Mouth": "#1f1f1f", "Teeth": "#e0e0e0", "Claws": "#000000" }
+        },
+        {
+            "name": "👹 Quỷ Vương Asura",
+            "colors": { "Body": "#2b0000", "Markings": "#4d0000", "Flank": "#800000", "Underbelly": "#b30000", "Detail": "#ffd700", "Display": "#ffcc00", "Eyes": "#00ffcc", "Mouth": "#3d0000", "Teeth": "#ffffff", "Claws": "#ffd700" }
+        },
+        {
+            "name": "💀 Hắc Ám Cốt Ma",
+            "colors": { "Body": "#050505", "Markings": "#121212", "Flank": "#292929", "Underbelly": "#e6e6e6", "Detail": "#8000ff", "Display": "#00ffff", "Eyes": "#39ff14", "Mouth": "#000000", "Teeth": "#f5f5f5", "Claws": "#8000ff" }
+        },
+        {
+            "name": "🔮 Hắc Ma Thuật Voodoo",
+            "colors": { "Body": "#190024", "Markings": "#320047", "Flank": "#520075", "Underbelly": "#7b00ad", "Detail": "#39ff14", "Display": "#00e5ff", "Eyes": "#39ff14", "Mouth": "#260036", "Teeth": "#fff8db", "Claws": "#39ff14" }
+        },
+        {
+            "name": "🔥 Rồng Lửa Địa Ngục",
+            "colors": { "Body": "#210303", "Markings": "#450808", "Flank": "#801111", "Underbelly": "#d92525", "Detail": "#ff7b00", "Display": "#ffe600", "Eyes": "#00f0ff", "Mouth": "#3d0000", "Teeth": "#ffffff", "Claws": "#140000" }
+        },
+        {
+            "name": "🌑 Nhật Thực Hắc Ám",
+            "colors": { "Body": "#080808", "Markings": "#1c1c1c", "Flank": "#383838", "Underbelly": "#ffffff", "Detail": "#ffd700", "Display": "#ff8c00", "Eyes": "#ffffff", "Mouth": "#000000", "Teeth": "#ffffff", "Claws": "#ffd700" }
+        },
+        {
+            "name": "🖤 Hắc Thạch Obsidian",
+            "colors": { "Body": "#000000", "Markings": "#141414", "Flank": "#292929", "Underbelly": "#4717f6", "Detail": "#a239ca", "Display": "#0e0b16", "Eyes": "#e7dfdd", "Mouth": "#141414", "Teeth": "#ffffff", "Claws": "#a239ca" }
+        },
+        {
+            "name": "🕯️ Lâu Đài Cổ Ma Quái",
+            "colors": { "Body": "#1b1a17", "Markings": "#282622", "Flank": "#413f3d", "Underbelly": "#7a7672", "Detail": "#a35709", "Display": "#ff8303", "Eyes": "#ff8303", "Mouth": "#141310", "Teeth": "#f0e3ca", "Claws": "#1b1a17" }
+        },
+        {
+            "name": "☠️ Lửa Độc Than Củi",
+            "colors": { "Body": "#0f0f12", "Markings": "#1e1e24", "Flank": "#2e2e38", "Underbelly": "#ff3b00", "Detail": "#00e676", "Display": "#39ff14", "Eyes": "#00e676", "Mouth": "#14141a", "Teeth": "#e5e7eb", "Claws": "#ff3b00" }
+        },
+        {
+            "name": "🩸 Quỷ Hút Máu Dracula",
+            "colors": { "Body": "#0d0208", "Markings": "#1f0514", "Flank": "#400a2b", "Underbelly": "#800020", "Detail": "#c70039", "Display": "#ffffff", "Eyes": "#ff0000", "Mouth": "#2b0010", "Teeth": "#ffffff", "Claws": "#000000" }
+        },
+        {
+            "name": "☄️ Thiên Thạch Hắc Ám",
+            "colors": { "Body": "#1a0800", "Markings": "#361200", "Flank": "#612200", "Underbelly": "#b34200", "Detail": "#ff6600", "Display": "#ffcc00", "Eyes": "#ffff00", "Mouth": "#2e0e00", "Teeth": "#ffe0b2", "Claws": "#140500" }
+        },
+        {
+            "name": "🪦 Xác Ướp Cổ Đại",
+            "colors": { "Body": "#28231c", "Markings": "#44392c", "Flank": "#8c7853", "Underbelly": "#d0b88c", "Detail": "#00a896", "Display": "#f4a261", "Eyes": "#02c39a", "Mouth": "#261c14", "Teeth": "#fefae0", "Claws": "#028090" }
+        },
+        {
+            "name": "🎃 Quỷ Bí Ngô Halloween",
+            "colors": { "Body": "#1a0f00", "Markings": "#3d1300", "Flank": "#ff6600", "Underbelly": "#ffaa00", "Detail": "#39ff14", "Display": "#ffff00", "Eyes": "#39ff14", "Mouth": "#ff3300", "Teeth": "#fff3b0", "Claws": "#000000" }
+        },
+        {
+            "name": "🕯️ Thuật Sĩ Necromancer",
+            "colors": { "Body": "#0a0a0f", "Markings": "#1a1a24", "Flank": "#2e2e42", "Underbelly": "#39ff14", "Detail": "#20c997", "Display": "#00ffcc", "Eyes": "#39ff14", "Mouth": "#12121c", "Teeth": "#dcdde1", "Claws": "#20c997" }
+        },
+        {
+            "name": "🐺 Ma Sói Huyết Nguyệt",
+            "colors": { "Body": "#1c1917", "Markings": "#292524", "Flank": "#7f1d1d", "Underbelly": "#dc2626", "Detail": "#ef4444", "Display": "#fee2e2", "Eyes": "#f87171", "Mouth": "#450a0a", "Teeth": "#ffffff", "Claws": "#991b1b" }
+        },
+        {
+            "name": "👹 Quỷ Dạ Xoa",
+            "colors": { "Body": "#1a0b2e", "Markings": "#3b1366", "Flank": "#731dd8", "Underbelly": "#ff007f", "Detail": "#00f0ff", "Display": "#39ff14", "Eyes": "#ff0055", "Mouth": "#491077", "Teeth": "#ffeaa7", "Claws": "#39ff14" }
+        },
+        {
+            "name": "💀 Minh Vương Hades",
+            "colors": { "Body": "#09090b", "Markings": "#18181b", "Flank": "#27272a", "Underbelly": "#38bdf8", "Detail": "#0284c7", "Display": "#00ffff", "Eyes": "#38bdf8", "Mouth": "#000000", "Teeth": "#e2e8f0", "Claws": "#0284c7" }
+        },
+        {
+            "name": "🩸 Huyết Ma Cổ Đại",
+            "colors": { "Body": "#1a0005", "Markings": "#3d000f", "Flank": "#800020", "Underbelly": "#c9184a", "Detail": "#ff4d6d", "Display": "#ffffff", "Eyes": "#ff0000", "Mouth": "#4a0011", "Teeth": "#fff0f3", "Claws": "#ff4d6d" }
+        },
+        {
+            "name": "🔥 Lửa Quỷ Địa Ngục Alpha",
+            "colors": { "Body": "#0f0003", "Markings": "#2b000a", "Flank": "#66001a", "Underbelly": "#ff0040", "Detail": "#ff8000", "Display": "#ffff00", "Eyes": "#ffff00", "Mouth": "#3d000f", "Teeth": "#ffffff", "Claws": "#ff8000" }
+        },
+        {
+            "name": "💀 Linh Hồn Sáng Lóe",
+            "colors": { "Body": "#020205", "Markings": "#0d0d1a", "Flank": "#1a1a33", "Underbelly": "#4d4dff", "Detail": "#00ffff", "Display": "#9900ff", "Eyes": "#00ffff", "Mouth": "#0d0d1a", "Teeth": "#ffffff", "Claws": "#9900ff" }
+        },
+        {
+            "name": "🌋 Dung Nham Chảy Tràn",
+            "colors": { "Body": "#1a0a00", "Markings": "#331400", "Flank": "#732b00", "Underbelly": "#ff5500", "Detail": "#ffbb00", "Display": "#ffffff", "Eyes": "#00ffff", "Mouth": "#4d1a00", "Teeth": "#fff3b0", "Claws": "#ff5500" }
+        },
+        {
+            "name": "🌑 Ma Quỷ Bóng Tối",
+            "colors": { "Body": "#020202", "Markings": "#080808", "Flank": "#171717", "Underbelly": "#262626", "Detail": "#5900b3", "Display": "#b300b3", "Eyes": "#ff0066", "Mouth": "#000000", "Teeth": "#e6e6e6", "Claws": "#5900b3" }
+        },
+        {
+            "name": "🩸 Tế Đàn Máu Sẫm",
+            "colors": { "Body": "#1c0005", "Markings": "#38000b", "Flank": "#730017", "Underbelly": "#b30024", "Detail": "#ff0033", "Display": "#ff4d4d", "Eyes": "#ffff00", "Mouth": "#260007", "Teeth": "#ffffff", "Claws": "#ff0033" }
+        },
+        {
+            "name": "🔮 Hắc Tinh Đầy Ảo Giác",
+            "colors": { "Body": "#070014", "Markings": "#14002e", "Flank": "#2b005c", "Underbelly": "#5900b3", "Detail": "#ff00aa", "Display": "#00ffcc", "Eyes": "#00ffcc", "Mouth": "#190033", "Teeth": "#ffffff", "Claws": "#ff00aa" }
+        },
+        {
+            "name": "⚡ Sét Đen Âm Ty Sâu",
+            "colors": { "Body": "#08080c", "Markings": "#141421", "Flank": "#24243b", "Underbelly": "#474775", "Detail": "#8c8cff", "Display": "#39ff14", "Eyes": "#39ff14", "Mouth": "#0f0f1a", "Teeth": "#ffffff", "Claws": "#8c8cff" }
+        },
+        {
+            "name": "☠️ Nghĩa Địa Đêm Hoang Vu",
+            "colors": { "Body": "#0f111a", "Markings": "#1a1d2e", "Flank": "#2b304d", "Underbelly": "#4a5585", "Detail": "#a37081", "Display": "#38bdf8", "Eyes": "#38bdf8", "Mouth": "#121521", "Teeth": "#ffffff", "Claws": "#4a5585" }
+        },
+        {
+            "name": "🦇 Động Dơi Ma Quái Sâu",
+            "colors": { "Body": "#09090c", "Markings": "#14141c", "Flank": "#242433", "Underbelly": "#404059", "Detail": "#800020", "Display": "#ff1a40", "Eyes": "#ff1a40", "Mouth": "#050508", "Teeth": "#ffffff", "Claws": "#404059" }
+        },
+        {
+            "name": "🔥 Ma Trơi Phát Sáng Lục",
+            "colors": { "Body": "#001a14", "Markings": "#003326", "Flank": "#00664d", "Underbelly": "#00cc99", "Detail": "#39ff14", "Display": "#76ff03", "Eyes": "#39ff14", "Mouth": "#001a14", "Teeth": "#ffffff", "Claws": "#00cc99" }
+        },
+        {
+            "name": "🔥 Lửa Địa Ngục Đỏ Rực",
+            "colors": { "Body": "#1f0000", "Markings": "#3d0000", "Flank": "#7a0000", "Underbelly": "#b80000", "Detail": "#ff3300", "Display": "#ff9900", "Eyes": "#ffff00", "Mouth": "#290000", "Teeth": "#ffffff", "Claws": "#ff3300" }
+        },
+        {
+            "name": "💀 Sương Mù Âm Phủ",
+            "colors": { "Body": "#0d0f12", "Markings": "#171a21", "Flank": "#282d38", "Underbelly": "#424b5c", "Detail": "#697791", "Display": "#9aa8c2", "Eyes": "#38bdf8", "Mouth": "#080a0d", "Teeth": "#ffffff", "Claws": "#424b5c" }
+        },
+        {
+            "name": "🩸 Vết Máu Khô",
+            "colors": { "Body": "#1a0808", "Markings": "#2b1010", "Flank": "#4a1c1c", "Underbelly": "#702e2e", "Detail": "#9e4747", "Display": "#cc6666", "Eyes": "#ff3333", "Mouth": "#140606", "Teeth": "#ffffff", "Claws": "#4a1c1c" }
+        },
+        {
+            "name": "🔮 Bùa Ngải Hắc Ám",
+            "colors": { "Body": "#120a1f", "Markings": "#211238", "Flank": "#391f5e", "Underbelly": "#5c3294", "Detail": "#8551cc", "Display": "#b8860b", "Eyes": "#00ffcc", "Mouth": "#140b1f", "Teeth": "#ffffff", "Claws": "#8551cc" }
+        },
+        {
+            "name": "🔥 Hỏa Ngục Tận Thế",
+            "colors": { "Body": "#120300", "Markings": "#290800", "Flank": "#591300", "Underbelly": "#9e2400", "Detail": "#e63900", "Display": "#ffb700", "Eyes": "#ffffff", "Mouth": "#1f0500", "Teeth": "#fff3b0", "Claws": "#e63900" }
+        },
+        {
+            "name": "💀 Cốt Máu Bất Tử",
+            "colors": { "Body": "#0a0a0a", "Markings": "#171717", "Flank": "#7f1d1d", "Underbelly": "#991b1b", "Detail": "#dc2626", "Display": "#ef4444", "Eyes": "#ef4444", "Mouth": "#050505", "Teeth": "#ffffff", "Claws": "#dc2626" }
+        },
+        {
+            "name": "🌑 Tối Thượng Âm Ti",
+            "colors": { "Body": "#000000", "Markings": "#050505", "Flank": "#0f0f0f", "Underbelly": "#1a1a1a", "Detail": "#333333", "Display": "#ff0055", "Eyes": "#ff0055", "Mouth": "#000000", "Teeth": "#ffffff", "Claws": "#333333" }
+        },
+        {
+            "name": "🔥 Dung Nham Sôi Sục",
+            "colors": { "Body": "#210900", "Markings": "#451300", "Flank": "#8a2500", "Underbelly": "#cc3700", "Detail": "#ff5500", "Display": "#ffaa00", "Eyes": "#ffff00", "Mouth": "#2e0c00", "Teeth": "#ffffff", "Claws": "#cc3700" }
+        },
+        {
+            "name": "🩸 Đầm Lầy Máu",
+            "colors": { "Body": "#140305", "Markings": "#26060a", "Flank": "#4a0b13", "Underbelly": "#7d1622", "Detail": "#b82335", "Display": "#e63956", "Eyes": "#ffea00", "Mouth": "#1c0407", "Teeth": "#ffffff", "Claws": "#7d1622" }
+        },
+        {
+            "name": "🔮 Phù Dịch Ma Quái",
+            "colors": { "Body": "#0d1a0e", "Markings": "#17331b", "Flank": "#295c32", "Underbelly": "#429450", "Detail": "#70db80", "Display": "#b3ffcc", "Eyes": "#39ff14", "Mouth": "#081209", "Teeth": "#ffffff", "Claws": "#429450" }
+        },
+        {
+            "name": "⚡ Sấm Sét Địa Ngục",
+            "colors": { "Body": "#0a0714", "Markings": "#151029", "Flank": "#281e4d", "Underbelly": "#523b9c", "Detail": "#7b51e0", "Display": "#00ffff", "Eyes": "#00ffff", "Mouth": "#0d0a1a", "Teeth": "#ffffff", "Claws": "#7b51e0" }
+        },
+        {
+            "name": "💀 Tro Bụi Núi Lửa",
+            "colors": { "Body": "#171717", "Markings": "#242424", "Flank": "#3b3b3b", "Underbelly": "#575757", "Detail": "#787878", "Display": "#ff4500", "Eyes": "#ff4500", "Mouth": "#0d0d0d", "Teeth": "#ffffff", "Claws": "#3b3b3b" }
+        },
+        {
+            "name": "🔥 Hỏa Ngục Luyện Kim",
+            "colors": { "Body": "#261100", "Markings": "#4d2200", "Flank": "#8a3d00", "Underbelly": "#c75c00", "Detail": "#ff851b", "Display": "#ffd700", "Eyes": "#00f0ff", "Mouth": "#1f0e00", "Teeth": "#ffffff", "Claws": "#c75c00" }
+        },
+        {
+            "name": "🩸 Ác Quỷ Đoạt Hồn",
+            "colors": { "Body": "#120005", "Markings": "#24000b", "Flank": "#4d0016", "Underbelly": "#800026", "Detail": "#b30036", "Display": "#ff1a66", "Eyes": "#00ffcc", "Mouth": "#1a0007", "Teeth": "#ffffff", "Claws": "#800026" }
+        },
+        {
+            "name": "🔮 Vòng Tròn Ma Thuật",
+            "colors": { "Body": "#060012", "Markings": "#120024", "Flank": "#240047", "Underbelly": "#4a008f", "Detail": "#8000ff", "Display": "#b84dff", "Eyes": "#b84dff", "Mouth": "#0a001a", "Teeth": "#ffffff", "Claws": "#4a008f" }
+        },
+        {
+            "name": "⚡ Năng Lượng Âm Phủ",
+            "colors": { "Body": "#001a0f", "Markings": "#00331f", "Flank": "#00663d", "Underbelly": "#00995c", "Detail": "#00cc7a", "Display": "#39ff14", "Eyes": "#39ff14", "Mouth": "#00120a", "Teeth": "#ffffff", "Claws": "#00995c" }
+        },
+        {
+            "name": "🌑 Tận Thế Hắc Ám",
+            "colors": { "Body": "#030303", "Markings": "#0a0a0a", "Flank": "#171717", "Underbelly": "#262626", "Detail": "#383838", "Display": "#ff0000", "Eyes": "#ff0000", "Mouth": "#000000", "Teeth": "#ffffff", "Claws": "#262626" }
+        },
+        {
+            "name": "🔥 Lửa Ngục Bất Diệt",
+            "colors": { "Body": "#2b0300", "Markings": "#570600", "Flank": "#ad0d00", "Underbelly": "#e62e00", "Detail": "#ff6600", "Display": "#ffcc00", "Eyes": "#00ffff", "Mouth": "#1a0200", "Teeth": "#ffffff", "Claws": "#e62e00" }
+        }
+    ],
+    "💻 Cyberpunk & Tech": [
+        {
+            "name": "🌌 Cyberpunk 2077",
+            "colors": { "Body": "#12002b", "Markings": "#ff007f", "Flank": "#00f0ff", "Underbelly": "#ffe600", "Detail": "#7928ca", "Display": "#00f0ff", "Eyes": "#ffe600", "Mouth": "#ff0055", "Teeth": "#ffffff", "Claws": "#00f0ff" }
+        },
+        {
+            "name": "🌆 Synthwave 80s",
+            "colors": { "Body": "#241734", "Markings": "#ff2a85", "Flank": "#2de2e6", "Underbelly": "#f706cf", "Detail": "#05ffa1", "Display": "#ff2a85", "Eyes": "#05ffa1", "Mouth": "#9a0f98", "Teeth": "#ffffff", "Claws": "#f706cf" }
+        },
+        {
+            "name": "✨ Neon Vaporwave",
+            "colors": { "Body": "#301934", "Markings": "#00ffff", "Flank": "#ff77ff", "Underbelly": "#ffff77", "Detail": "#7700ff", "Display": "#ff00aa", "Eyes": "#00ffcc", "Mouth": "#ff3399", "Teeth": "#ffffff", "Claws": "#00e5ff" }
+        },
+        {
+            "name": "⚡ Laser Matrix",
+            "colors": { "Body": "#050505", "Markings": "#003b00", "Flank": "#00ff41", "Underbelly": "#008f11", "Detail": "#00ff66", "Display": "#39ff14", "Eyes": "#ccff00", "Mouth": "#003b00", "Teeth": "#ffffff", "Claws": "#00ff41" }
+        },
+        {
+            "name": "🔮 Void Nebula",
+            "colors": { "Body": "#0b001a", "Markings": "#4a00e0", "Flank": "#8e2de2", "Underbelly": "#f000ff", "Detail": "#00d2ff", "Display": "#ff007f", "Eyes": "#00ffff", "Mouth": "#7928ca", "Teeth": "#ffffff", "Claws": "#9d4edd" }
+        },
+        {
+            "name": "🪩 Sàn Đấu Laser Arcade",
+            "colors": { "Body": "#0c084c", "Markings": "#050324", "Flank": "#ff0055", "Underbelly": "#00ffcc", "Detail": "#ffe600", "Display": "#ff00aa", "Eyes": "#00ff66", "Mouth": "#7928ca", "Teeth": "#ffffff", "Claws": "#00f0ff" }
+        },
+        {
+            "name": "⚡ Cyber Sấm Sét Neon",
+            "colors": { "Body": "#080710", "Markings": "#120e2e", "Flank": "#00d4ff", "Underbelly": "#7b2cbf", "Detail": "#ff007f", "Display": "#00f0ff", "Eyes": "#ffffff", "Mouth": "#5a189a", "Teeth": "#ffffff", "Claws": "#00f0ff" }
+        },
+        {
+            "name": "🧬 Ma Trận Sinh Học",
+            "colors": { "Body": "#020617", "Markings": "#0f172a", "Flank": "#0284c7", "Underbelly": "#38bdf8", "Detail": "#22c55e", "Display": "#4ade80", "Eyes": "#00f0ff", "Mouth": "#0369a1", "Teeth": "#f8fafc", "Claws": "#16a34a" }
+        },
+        {
+            "name": "🕹️ GameBoy Retro 90s",
+            "colors": { "Body": "#84828f", "Markings": "#6d6978", "Flank": "#9ca3af", "Underbelly": "#8bac0f", "Detail": "#861941", "Display": "#9bbc0f", "Eyes": "#0f380f", "Mouth": "#306230", "Teeth": "#e5e7eb", "Claws": "#374151" }
+        },
+        {
+            "name": "🖲️ Hacker Cyber Green",
+            "colors": { "Body": "#001100", "Markings": "#002b00", "Flank": "#008f11", "Underbelly": "#00ff41", "Detail": "#39ff14", "Display": "#adff2f", "Eyes": "#00ff00", "Mouth": "#005500", "Teeth": "#eaffea", "Claws": "#00ff66" }
+        },
+        {
+            "name": "🌐 Glitch Kỹ Thuật Số",
+            "colors": { "Body": "#0a0a14", "Markings": "#ff0055", "Flank": "#00ffff", "Underbelly": "#ffffff", "Detail": "#ffea00", "Display": "#00ff66", "Eyes": "#ff0055", "Mouth": "#101026", "Teeth": "#00ffff", "Claws": "#ffea00" }
+        },
+        {
+            "name": "🚗 Outrun Sunset Drive",
+            "colors": { "Body": "#1f0036", "Markings": "#450069", "Flank": "#8a008a", "Underbelly": "#ff007f", "Detail": "#ff7700", "Display": "#ffee00", "Eyes": "#00ffff", "Mouth": "#3b004d", "Teeth": "#ffffff", "Claws": "#ffee00" }
+        },
+        {
+            "name": "👾 Arcade 1984",
+            "colors": { "Body": "#0d0221", "Markings": "#0f084b", "Flank": "#26408b", "Underbelly": "#a6cfd5", "Detail": "#c2e7d9", "Display": "#ff3864", "Eyes": "#ff3864", "Mouth": "#0d0221", "Teeth": "#ffffff", "Claws": "#ff3864" }
+        },
+        {
+            "name": "💾 Đĩa Mềm Floppy Disk",
+            "colors": { "Body": "#1e293b", "Markings": "#334155", "Flank": "#475569", "Underbelly": "#64748b", "Detail": "#cbd5e1", "Display": "#ef4444", "Eyes": "#3b82f6", "Mouth": "#0f172a", "Teeth": "#ffffff", "Claws": "#ef4444" }
+        },
+        {
+            "name": "📟 Máy Nhắn Tin Beeper",
+            "colors": { "Body": "#132a13", "Markings": "#1f441f", "Flank": "#2d6a4f", "Underbelly": "#52b788", "Detail": "#74c69d", "Display": "#95d5b2", "Eyes": "#081c15", "Mouth": "#081c15", "Teeth": "#d8f3dc", "Claws": "#2d6a4f" }
+        },
+        {
+            "name": "⚡ Cyber Samurai",
+            "colors": { "Body": "#0a0908", "Markings": "#22333b", "Flank": "#a9927d", "Underbelly": "#5e503f", "Detail": "#ff0055", "Display": "#00f0ff", "Eyes": "#ff0055", "Mouth": "#1a1816", "Teeth": "#ffffff", "Claws": "#00f0ff" }
+        },
+        {
+            "name": "🛸 Cyberpunk Neon Bar",
+            "colors": { "Body": "#1b003a", "Markings": "#3c0066", "Flank": "#ff00aa", "Underbelly": "#00f0ff", "Detail": "#39ff14", "Display": "#ffff00", "Eyes": "#00f0ff", "Mouth": "#5c0099", "Teeth": "#ffffff", "Claws": "#ff00aa" }
+        },
+        {
+            "name": "🤖 Mecha Gundam RX-78",
+            "colors": { "Body": "#ffffff", "Markings": "#e2e8f0", "Flank": "#2563eb", "Underbelly": "#dc2626", "Detail": "#facc15", "Display": "#22c55e", "Eyes": "#facc15", "Mouth": "#1e293b", "Teeth": "#ffffff", "Claws": "#dc2626" }
+        },
+        {
+            "name": "🦾 Cyborg Android 18",
+            "colors": { "Body": "#0f172a", "Markings": "#1e293b", "Flank": "#f8fafc", "Underbelly": "#3b82f6", "Detail": "#f97316", "Display": "#facc15", "Eyes": "#38bdf8", "Mouth": "#334155", "Teeth": "#ffffff", "Claws": "#3b82f6" }
+        },
+        {
+            "name": "🕹️ Nintendo Famicom",
+            "colors": { "Body": "#850000", "Markings": "#a80000", "Flank": "#fdf0d5", "Underbelly": "#ffffff", "Detail": "#ffd700", "Display": "#111111", "Eyes": "#ffd700", "Mouth": "#570000", "Teeth": "#ffffff", "Claws": "#ffd700" }
+        },
+        {
+            "name": "📡 Tín Hiệu Radio Sóng Ngắn",
+            "colors": { "Body": "#0b132b", "Markings": "#1c2541", "Flank": "#3a506b", "Underbelly": "#5bc0be", "Detail": "#6fffe9", "Display": "#ffffff", "Eyes": "#6fffe9", "Mouth": "#0b132b", "Teeth": "#ffffff", "Claws": "#5bc0be" }
+        },
+        {
+            "name": "🥽 Kính Nhìn Đêm Night Vision",
+            "colors": { "Body": "#000800", "Markings": "#001a00", "Flank": "#003800", "Underbelly": "#007a00", "Detail": "#00ff00", "Display": "#76ff03", "Eyes": "#39ff14", "Mouth": "#001400", "Teeth": "#ccffcc", "Claws": "#00ff00" }
+        },
+        {
+            "name": "🔬 Kính Hiển Vi Vi Khuẩn",
+            "colors": { "Body": "#0a0017", "Markings": "#1a0033", "Flank": "#330066", "Underbelly": "#6600cc", "Detail": "#00f0ff", "Display": "#ff00ff", "Eyes": "#00f0ff", "Mouth": "#1f003d", "Teeth": "#ffffff", "Claws": "#ff00ff" }
+        },
+        {
+            "name": "📡 Sóng Radar Quân Sự",
+            "colors": { "Body": "#001a14", "Markings": "#003328", "Flank": "#005c48", "Underbelly": "#009977", "Detail": "#00ffc4", "Display": "#adff2f", "Eyes": "#adff2f", "Mouth": "#00261e", "Teeth": "#e6fff9", "Claws": "#00ffc4" }
+        },
+        {
+            "name": "🧬 Chuỗi Xoắn ADN",
+            "colors": { "Body": "#0a1128", "Markings": "#1c2541", "Flank": "#0077b6", "Underbelly": "#00b4d8", "Detail": "#ff006e", "Display": "#ffbe0b", "Eyes": "#00f0ff", "Mouth": "#0b1528", "Teeth": "#ffffff", "Claws": "#ff006e" }
+        },
+        {
+            "name": "💻 Bàn Phím Cơ RGB",
+            "colors": { "Body": "#11111b", "Markings": "#181825", "Flank": "#313244", "Underbelly": "#f38ba8", "Detail": "#a6e3a1", "Display": "#89b4fa", "Eyes": "#f9e2af", "Mouth": "#11111b", "Teeth": "#cdd6f4", "Claws": "#89b4fa" }
+        },
+        {
+            "name": "🎧 Gaming Headset LED",
+            "colors": { "Body": "#18181b", "Markings": "#27272a", "Flank": "#3f3f46", "Underbelly": "#a1a1aa", "Detail": "#ec4899", "Display": "#8b5cf6", "Eyes": "#06b6d4", "Mouth": "#09090b", "Teeth": "#ffffff", "Claws": "#8b5cf6" }
+        },
+        {
+            "name": "🔋 Pin Sạc Dự Phòng",
+            "colors": { "Body": "#f8fafc", "Markings": "#e2e8f0", "Flank": "#94a3b8", "Underbelly": "#3b82f6", "Detail": "#22c55e", "Display": "#ef4444", "Eyes": "#3b82f6", "Mouth": "#64748b", "Teeth": "#ffffff", "Claws": "#22c55e" }
+        },
+        {
+            "name": "🔌 Cổng Cắm USB Type-C",
+            "colors": { "Body": "#1e293b", "Markings": "#334155", "Flank": "#475569", "Underbelly": "#94a3b8", "Detail": "#ffffff", "Display": "#eab308", "Eyes": "#38bdf8", "Mouth": "#0f172a", "Teeth": "#e2e8f0", "Claws": "#ffffff" }
+        },
+        {
+            "name": "🖨️ Máy In 3D Nhựa Dẻo",
+            "colors": { "Body": "#334155", "Markings": "#475569", "Flank": "#64748b", "Underbelly": "#cbd5e1", "Detail": "#f97316", "Display": "#3b82f6", "Eyes": "#f97316", "Mouth": "#1e293b", "Teeth": "#ffffff", "Claws": "#3b82f6" }
+        },
+        {
+            "name": "🖲️ Chuột Gaming Không Dây",
+            "colors": { "Body": "#09090b", "Markings": "#18181b", "Flank": "#27272a", "Underbelly": "#3f3f46", "Detail": "#3b82f6", "Display": "#ec4899", "Eyes": "#3b82f6", "Mouth": "#000000", "Teeth": "#ffffff", "Claws": "#ec4899" }
+        },
+        {
+            "name": "📺 Màn Hình Cong UltraWide",
+            "colors": { "Body": "#121212", "Markings": "#1f1f1f", "Flank": "#2e2e2e", "Underbelly": "#3d3d3d", "Detail": "#00f0ff", "Display": "#76ff03", "Eyes": "#00f0ff", "Mouth": "#000000", "Teeth": "#ffffff", "Claws": "#76ff03" }
+        },
+        {
+            "name": "💽 Ổ Cứng SSD M.2",
+            "colors": { "Body": "#022c22", "Markings": "#064e3b", "Flank": "#0d9488", "Underbelly": "#2dd4bf", "Detail": "#fbbf24", "Display": "#38bdf8", "Eyes": "#2dd4bf", "Mouth": "#021c16", "Teeth": "#ffffff", "Claws": "#fbbf24" }
+        },
+        {
+            "name": "📡 Bộ Định Tuyến Wifi 6",
+            "colors": { "Body": "#ffffff", "Markings": "#f1f5f9", "Flank": "#e2e8f0", "Underbelly": "#cbd5e1", "Detail": "#22c55e", "Display": "#3b82f6", "Eyes": "#22c55e", "Mouth": "#94a3b8", "Teeth": "#ffffff", "Claws": "#3b82f6" }
+        },
+        {
+            "name": "🔋 Tụ Điện Cao Áp",
+            "colors": { "Body": "#451a03", "Markings": "#78350f", "Flank": "#b45309", "Underbelly": "#d97706", "Detail": "#f59e0b", "Display": "#ef4444", "Eyes": "#ef4444", "Mouth": "#292524", "Teeth": "#ffffff", "Claws": "#f59e0b" }
+        }
+    ],
+    "🍉 Trái Cây & Ẩm Thực": [
+        {
+            "name": "🐉 Quả Thanh Long",
+            "colors": { "Body": "#e0115f", "Markings": "#78b833", "Flank": "#ff4d94", "Underbelly": "#ffffff", "Detail": "#1a1a1a", "Display": "#76ff03", "Eyes": "#000000", "Mouth": "#c2185b", "Teeth": "#ffffff", "Claws": "#558b2f" }
+        },
+        {
+            "name": "🥭 Xoài Nhiệt Đới",
+            "colors": { "Body": "#ff9900", "Markings": "#cc2b00", "Flank": "#ffcc00", "Underbelly": "#ffe680", "Detail": "#43a047", "Display": "#ff1a1a", "Eyes": "#ff0000", "Mouth": "#d84315", "Teeth": "#ffffff", "Claws": "#2e7d32" }
+        },
+        {
+            "name": "🫐 Mâm Xôi & Việt Quất",
+            "colors": { "Body": "#31103f", "Markings": "#800f2f", "Flank": "#c9184a", "Underbelly": "#ff758f", "Detail": "#0077b6", "Display": "#00b4d8", "Eyes": "#90e0ef", "Mouth": "#590d22", "Teeth": "#ffffff", "Claws": "#03045e" }
+        },
+        {
+            "name": "🥝 Quả Kiwi Chua",
+            "colors": { "Body": "#5c4033", "Markings": "#3d2b1f", "Flank": "#7cb342", "Underbelly": "#c0ca33", "Detail": "#111111", "Display": "#f4ff81", "Eyes": "#33691e", "Mouth": "#689f38", "Teeth": "#f1f8e9", "Claws": "#2e1c0c" }
+        },
+        {
+            "name": "🍦 Rainbow Ice Cream",
+            "colors": { "Body": "#ffb3ba", "Markings": "#ffdfba", "Flank": "#baffc9", "Underbelly": "#bae1ff", "Detail": "#ffffba", "Display": "#ff66cc", "Eyes": "#33ccff", "Mouth": "#ff3385", "Teeth": "#ffffff", "Claws": "#ff99bb" }
+        },
+        {
+            "name": "🍉 Dưa Hấu Ngày Hè",
+            "colors": { "Body": "#0f381e", "Markings": "#1b5e20", "Flank": "#4caf50", "Underbelly": "#ff1744", "Detail": "#111111", "Display": "#ff5252", "Eyes": "#000000", "Mouth": "#d50000", "Teeth": "#ffffff", "Claws": "#003300" }
+        },
+        {
+            "name": "🥑 Bơ Chín Béo Ngậy",
+            "colors": { "Body": "#283618", "Markings": "#3d2b1f", "Flank": "#606c38", "Underbelly": "#dda15e", "Detail": "#bc6c25", "Display": "#ccd5ae", "Eyes": "#3d2b1f", "Mouth": "#606c38", "Teeth": "#fefae0", "Claws": "#283618" }
+        },
+        {
+            "name": "🥤 Bọt Biển Soda Cam",
+            "colors": { "Body": "#7c2d12", "Markings": "#9a3412", "Flank": "#ea580c", "Underbelly": "#fb923c", "Detail": "#38bdf8", "Display": "#facc15", "Eyes": "#0284c7", "Mouth": "#c2410c", "Teeth": "#ffffff", "Claws": "#0369a1" }
+        },
+        {
+            "name": "🫐 Trà Sữa Khoai Môn",
+            "colors": { "Body": "#3b0764", "Markings": "#581c87", "Flank": "#7e22ce", "Underbelly": "#e9d5ff", "Detail": "#1c1917", "Display": "#c084fc", "Eyes": "#1c1917", "Mouth": "#6b21a8", "Teeth": "#faf5ff", "Claws": "#2e1065" }
+        },
+        {
+            "name": "🍸 Cocktail Sunset",
+            "colors": { "Body": "#4a044e", "Markings": "#701a75", "Flank": "#c026d3", "Underbelly": "#f43f5e", "Detail": "#fb923c", "Display": "#facc15", "Eyes": "#38bdf8", "Mouth": "#a21caf", "Teeth": "#ffffff", "Claws": "#f97316" }
+        },
+        {
+            "name": "🍓 Dâu Tây Kem Sữa",
+            "colors": { "Body": "#850e35", "Markings": "#ee6f57", "Flank": "#ff597b", "Underbelly": "#fff5e4", "Detail": "#2b580c", "Display": "#ffc4dd", "Eyes": "#2b580c", "Mouth": "#a30000", "Teeth": "#ffffff", "Claws": "#2b580c" }
+        },
+        {
+            "name": "🍋 Chanh Bạc Hà Mojito",
+            "colors": { "Body": "#004d40", "Markings": "#00796b", "Flank": "#64dd17", "Underbelly": "#c6ff00", "Detail": "#e0f2f1", "Display": "#ffff00", "Eyes": "#00bfa5", "Mouth": "#004d40", "Teeth": "#ffffff", "Claws": "#76ff03" }
+        },
+        {
+            "name": "🍩 Bánh Donut Cầu Vồng",
+            "colors": { "Body": "#8d5b4c", "Markings": "#ff69b4", "Flank": "#ffb6c1", "Underbelly": "#fff0f5", "Detail": "#00ffff", "Display": "#ffff00", "Eyes": "#ff1493", "Mouth": "#d02090", "Teeth": "#ffffff", "Claws": "#ffd700" }
+        },
+        {
+            "name": "🍇 Nho Rừng Rượu Vang",
+            "colors": { "Body": "#2e0249", "Markings": "#570a57", "Flank": "#a91079", "Underbelly": "#f806cc", "Detail": "#ffbe0b", "Display": "#fb5607", "Eyes": "#ffbe0b", "Mouth": "#4d003b", "Teeth": "#ffffff", "Claws": "#f806cc" }
+        },
+        {
+            "name": "🍯 Mật Ong Rừng",
+            "colors": { "Body": "#4a2800", "Markings": "#8b4500", "Flank": "#d48b00", "Underbelly": "#ffc72c", "Detail": "#ffe875", "Display": "#ffffff", "Eyes": "#241400", "Mouth": "#8b3a00", "Teeth": "#fff8db", "Claws": "#3b1e00" }
+        },
+        {
+            "name": "🍧 Siro Đá Bào Hawaii",
+            "colors": { "Body": "#0077b6", "Markings": "#ff007f", "Flank": "#ffe600", "Underbelly": "#00f0ff", "Detail": "#ff4d6d", "Display": "#ffffff", "Eyes": "#39ff14", "Mouth": "#d00000", "Teeth": "#ffffff", "Claws": "#ffea00" }
+        },
+        {
+            "name": "🍮 Bánh Flan Caramel",
+            "colors": { "Body": "#3d1e03", "Markings": "#613107", "Flank": "#944e11", "Underbelly": "#ffe6a7", "Detail": "#fff3b0", "Display": "#ffffff", "Eyes": "#472405", "Mouth": "#3d1e03", "Teeth": "#ffffff", "Claws": "#613107" }
+        },
+        {
+            "name": "🧁 Cupcake Dâu Xanh",
+            "colors": { "Body": "#003566", "Markings": "#006494", "Flank": "#ff758f", "Underbelly": "#ffb3c1", "Detail": "#ffe5ec", "Display": "#ff0054", "Eyes": "#ff0054", "Mouth": "#001d3d", "Teeth": "#ffffff", "Claws": "#ff758f" }
+        },
+        {
+            "name": "🍍 Quả Dứa Gai Góc",
+            "colors": { "Body": "#382305", "Markings": "#5e3a09", "Flank": "#d48b00", "Underbelly": "#ffd000", "Detail": "#2d6a4f", "Display": "#52b788", "Eyes": "#2d6a4f", "Mouth": "#382305", "Teeth": "#ffffff", "Claws": "#2d6a4f" }
+        },
+        {
+            "name": "🥥 Dừa Xiêm Tươi Mát",
+            "colors": { "Body": "#283618", "Markings": "#43562b", "Flank": "#606c38", "Underbelly": "#ffffff", "Detail": "#38bdf8", "Display": "#f0fdf4", "Eyes": "#38bdf8", "Mouth": "#1f2b12", "Teeth": "#ffffff", "Claws": "#283618" }
+        },
+        {
+            "name": "🍒 Quả Anh Đào Cherry",
+            "colors": { "Body": "#36010f", "Markings": "#570219", "Flank": "#8f0028", "Underbelly": "#d6003c", "Detail": "#2d6a4f", "Display": "#ff4d79", "Eyes": "#2d6a4f", "Mouth": "#470014", "Teeth": "#ffffff", "Claws": "#2d6a4f" }
+        },
+        {
+            "name": "🍫 Chocolate Đắng 99%",
+            "colors": { "Body": "#140b05", "Markings": "#26150a", "Flank": "#3b2211", "Underbelly": "#54321b", "Detail": "#d4af37", "Display": "#ffd700", "Eyes": "#ffd700", "Mouth": "#120904", "Teeth": "#f5ebe0", "Claws": "#140b05" }
+        },
+        {
+            "name": "🥞 Bánh Pancake Mật Phong",
+            "colors": { "Body": "#42280e", "Markings": "#6e4218", "Flank": "#a36528", "Underbelly": "#e8b87d", "Detail": "#ffea00", "Display": "#ffffff", "Eyes": "#381d06", "Mouth": "#42280e", "Teeth": "#fffbf5", "Claws": "#a36528" }
+        },
+        {
+            "name": "🧀 Phô Mai Béo Cheddar",
+            "colors": { "Body": "#7a3e00", "Markings": "#a85500", "Flank": "#e07300", "Underbelly": "#ff9e1b", "Detail": "#ffd000", "Display": "#fff066", "Eyes": "#422100", "Mouth": "#7a3e00", "Teeth": "#ffffff", "Claws": "#ff9e1b" }
+        },
+        {
+            "name": "🍬 Kẹo Cầu Vồng Skittles",
+            "colors": { "Body": "#e63946", "Markings": "#f77f00", "Flank": "#fcbf49", "Underbelly": "#2a9d8f", "Detail": "#457b9d", "Display": "#9d4edd", "Eyes": "#ffffff", "Mouth": "#d62828", "Teeth": "#ffffff", "Claws": "#9d4edd" }
+        },
+        {
+            "name": "🧋 Trà Sữa Trân Châu Đường Đen",
+            "colors": { "Body": "#170f07", "Markings": "#2e1e0f", "Flank": "#593c20", "Underbelly": "#d9b382", "Detail": "#fff3db", "Display": "#000000", "Eyes": "#000000", "Mouth": "#24160a", "Teeth": "#ffffff", "Claws": "#170f07" }
+        },
+        {
+            "name": "🍏 Táo Xanh Granny Smith",
+            "colors": { "Body": "#173805", "Markings": "#2b5c0d", "Flank": "#498c19", "Underbelly": "#70c728", "Detail": "#b8ff5c", "Display": "#ffffff", "Eyes": "#b8ff5c", "Mouth": "#1e4208", "Teeth": "#ffffff", "Claws": "#2b5c0d" }
+        },
+        {
+            "name": "🌶️ Ớt Siêu Cay Habanero",
+            "colors": { "Body": "#4a0800", "Markings": "#800e00", "Flank": "#cc1f00", "Underbelly": "#ff4000", "Detail": "#2d6a4f", "Display": "#ff9900", "Eyes": "#ffea00", "Mouth": "#4a0800", "Teeth": "#ffffff", "Claws": "#2d6a4f" }
+        },
+        {
+            "name": "🥖 Bánh Mì Nướng Giòn",
+            "colors": { "Body": "#2e1a05", "Markings": "#52300c", "Flank": "#85511b", "Underbelly": "#cfa065", "Detail": "#f0d5a8", "Display": "#ffffff", "Eyes": "#361e05", "Mouth": "#2e1a05", "Teeth": "#fffdfa", "Claws": "#52300c" }
+        },
+        {
+            "name": "🌽 Bắp Ngọt Nướng",
+            "colors": { "Body": "#2e2300", "Markings": "#594400", "Flank": "#9e7900", "Underbelly": "#e0ad00", "Detail": "#ffd633", "Display": "#38b000", "Eyes": "#38b000", "Mouth": "#3d2f00", "Teeth": "#fffbe6", "Claws": "#594400" }
+        },
+        {
+            "name": "🧊 Bạc Hà Sô-cô-la Choco Mint",
+            "colors": { "Body": "#2c1d11", "Markings": "#422a19", "Flank": "#593822", "Underbelly": "#a7f3d0", "Detail": "#34d399", "Display": "#059669", "Eyes": "#10b981", "Mouth": "#23150a", "Teeth": "#ecfdf5", "Claws": "#34d399" }
+        },
+        {
+            "name": "☕ Cà Phê Cappuccino",
+            "colors": { "Body": "#2b1810", "Markings": "#4a2a1b", "Flank": "#78472f", "Underbelly": "#d7b899", "Detail": "#f3e9dc", "Display": "#ffffff", "Eyes": "#4a2a1b", "Mouth": "#24130b", "Teeth": "#fffbf5", "Claws": "#4a2a1b" }
+        },
+        {
+            "name": "🍵 Trà Xanh Matcha Sữa",
+            "colors": { "Body": "#1e3a1e", "Markings": "#2d5a27", "Flank": "#4a7c3b", "Underbelly": "#8cb369", "Detail": "#d4e09b", "Display": "#f7f9f1", "Eyes": "#31572c", "Mouth": "#1a331a", "Teeth": "#ffffff", "Claws": "#8cb369" }
+        },
+        {
+            "name": "🍑 Đào Mọng Nước",
+            "colors": { "Body": "#4a121a", "Markings": "#7a2230", "Flank": "#d94156", "Underbelly": "#ff7085", "Detail": "#ffb3be", "Display": "#ffffff", "Eyes": "#ffb3be", "Mouth": "#3b0c13", "Teeth": "#fff5f7", "Claws": "#d94156" }
+        }
+    ],
+    "🔥 Địa Ngục & Hỏa Diểm": [
+        {
+            "name": "🔥 Lò Sưởi Mùa Đông",
+            "colors": { "Body": "#3a261e", "Markings": "#57392c", "Flank": "#7d5140", "Underbelly": "#c76d3c", "Detail": "#f5a65b", "Display": "#ffd08a", "Eyes": "#fff0b8", "Mouth": "#281a14", "Teeth": "#ffffff", "Claws": "#57392c" }
+        }
+    ],
+    "💻 Cyberpunk & Tech": [
+        {
+            "name": "🚀 Phi Thuyền Khám Phá",
+            "colors": { "Body": "#27313b", "Markings": "#44515d", "Flank": "#7c8c99", "Underbelly": "#cfd8de", "Detail": "#ff9f1c", "Display": "#e6f4ff", "Eyes": "#70d6ff", "Mouth": "#1b2228", "Teeth": "#ffffff", "Claws": "#44515d" }
+        },
+        {
+            "name": "🏙️ Thành Phố Tương Lai",
+            "colors": { "Body": "#263646", "Markings": "#3d566b", "Flank": "#597f99", "Underbelly": "#a5c8d8", "Detail": "#d9fbff", "Display": "#7ae0e8", "Eyes": "#b9ffff", "Mouth": "#1a2631", "Teeth": "#ffffff", "Claws": "#3d566b" }
+        }
+    ],
+    "🌌 Vũ Trụ & Không Gian": [
+        {
+            "name": "🌌 Thiên Hà Andromeda",
+            "colors": { "Body": "#0b1026", "Markings": "#1b2a59", "Flank": "#4b3f9f", "Underbelly": "#9d7cd8", "Detail": "#f4c2ff", "Display": "#b9f3ff", "Eyes": "#ffffff", "Mouth": "#12152e", "Teeth": "#f8fafc", "Claws": "#6ee7ff" }
+        },
+        {
+            "name": "⭐ Sao Băng Bạc",
+            "colors": { "Body": "#18212f", "Markings": "#2d3e50", "Flank": "#60758a", "Underbelly": "#c7d5e0", "Detail": "#ffffff", "Display": "#dff8ff", "Eyes": "#b8f5ff", "Mouth": "#111827", "Teeth": "#ffffff", "Claws": "#94a3b8" }
+        },
+        {
+            "name": "🌠 Mưa Sao Đêm",
+            "colors": { "Body": "#060b1d", "Markings": "#101b3b", "Flank": "#244f8f", "Underbelly": "#7cc7ff", "Detail": "#fff4b8", "Display": "#ffffff", "Eyes": "#ffd966", "Mouth": "#080d1f", "Teeth": "#ffffff", "Claws": "#7cc7ff" }
+        },
+        {
+            "name": "🪐 Sao Thổ Vành Đai",
+            "colors": { "Body": "#5c4327", "Markings": "#8b6944", "Flank": "#c79c65", "Underbelly": "#e6c58d", "Detail": "#f7e4ba", "Display": "#d9c7a1", "Eyes": "#ffe7a3", "Mouth": "#3d2b1c", "Teeth": "#fff8e7", "Claws": "#8b6944" }
+        },
+        {
+            "name": "🔵 Hải Vương Tinh Băng Giá",
+            "colors": { "Body": "#081f4d", "Markings": "#0b3d91", "Flank": "#1261c9", "Underbelly": "#4da3ff", "Detail": "#a7dcff", "Display": "#d8f3ff", "Eyes": "#7df9ff", "Mouth": "#071735", "Teeth": "#ffffff", "Claws": "#1261c9" }
+        },
+        {
+            "name": "🔴 Hành Tinh Sao Hỏa",
+            "colors": { "Body": "#4a1d16", "Markings": "#6f2f1f", "Flank": "#a64b2a", "Underbelly": "#d67a45", "Detail": "#f2b37c", "Display": "#ffb36b", "Eyes": "#ffd1a3", "Mouth": "#35110d", "Teeth": "#fff4e8", "Claws": "#6f2f1f" }
+        },
+        {
+            "name": "☀️ Nhật Quang Hoàng Kim",
+            "colors": { "Body": "#6b3d00", "Markings": "#9b5c00", "Flank": "#d98a00", "Underbelly": "#ffbf00", "Detail": "#ffe680", "Display": "#fff8cc", "Eyes": "#ffffff", "Mouth": "#4d2b00", "Teeth": "#fffdf0", "Claws": "#d98a00" }
+        },
+        {
+            "name": "🌙 Trăng Khuyết Bạc",
+            "colors": { "Body": "#1d2633", "Markings": "#334155", "Flank": "#64748b", "Underbelly": "#cbd5e1", "Detail": "#f8fafc", "Display": "#e0f2fe", "Eyes": "#ffffff", "Mouth": "#111827", "Teeth": "#ffffff", "Claws": "#94a3b8" }
+        },
+        {
+            "name": "☄️ Sao Chổi Băng Lam",
+            "colors": { "Body": "#06283d", "Markings": "#0b4f6c", "Flank": "#1296b8", "Underbelly": "#7ee8fa", "Detail": "#d9ffff", "Display": "#ffffff", "Eyes": "#bfffff", "Mouth": "#041c2b", "Teeth": "#ffffff", "Claws": "#37c6e8" }
+        },
+        {
+            "name": "🌀 Lỗ Đen Vũ Trụ",
+            "colors": { "Body": "#010104", "Markings": "#09091a", "Flank": "#17172f", "Underbelly": "#30295c", "Detail": "#6d3cff", "Display": "#a78bfa", "Eyes": "#c084fc", "Mouth": "#000000", "Teeth": "#d8d8ff", "Claws": "#6d3cff" }
+        },
+        {
+            "name": "🌌 Cực Quang Bắc Âu",
+            "colors": { "Body": "#071c25", "Markings": "#0d3540", "Flank": "#1b6d70", "Underbelly": "#4fc3a1", "Detail": "#a5f3d0", "Display": "#8be9fd", "Eyes": "#d6fffa", "Mouth": "#041217", "Teeth": "#ffffff", "Claws": "#1b6d70" }
+        },
+        {
+            "name": "🔭 Đài Quan Sát Thiên Văn",
+            "colors": { "Body": "#111b2d", "Markings": "#1f2f4a", "Flank": "#395777", "Underbelly": "#809ec0", "Detail": "#d3e8ff", "Display": "#9dc9ff", "Eyes": "#e5f6ff", "Mouth": "#0b111d", "Teeth": "#ffffff", "Claws": "#1f2f4a" }
+        }
+    ],
+    "🌿 Thiên Nhiên & Thời Tiết": [
+        {
+            "name": "🌈 Cầu Vồng Sau Mưa",
+            "colors": { "Body": "#4c78a8", "Markings": "#72a1d1", "Flank": "#ff7b7b", "Underbelly": "#ffd166", "Detail": "#7bd389", "Display": "#cdb4ff", "Eyes": "#7dd3fc", "Mouth": "#e76f51", "Teeth": "#ffffff", "Claws": "#9b5de5" }
+        },
+        {
+            "name": "🌧️ Mưa Rào Mùa Hạ",
+            "colors": { "Body": "#26354a", "Markings": "#3c506b", "Flank": "#58799e", "Underbelly": "#9fc5e8", "Detail": "#d5ecff", "Display": "#f0f9ff", "Eyes": "#7dd3fc", "Mouth": "#1d2939", "Teeth": "#ffffff", "Claws": "#58799e" }
+        },
+        {
+            "name": "❄️ Bão Tuyết Bắc Cực",
+            "colors": { "Body": "#b9d9e8", "Markings": "#d7edf5", "Flank": "#8eb9cc", "Underbelly": "#ffffff", "Detail": "#e8fbff", "Display": "#dff7ff", "Eyes": "#75d5f0", "Mouth": "#7ca7b8", "Teeth": "#ffffff", "Claws": "#8eb9cc" }
+        },
+        {
+            "name": "🌪️ Lốc Xoáy Sa Mạc",
+            "colors": { "Body": "#5a4632", "Markings": "#7c6246", "Flank": "#aa875f", "Underbelly": "#d9b98b", "Detail": "#f1d6a5", "Display": "#ffe6b8", "Eyes": "#f7c873", "Mouth": "#3e3022", "Teeth": "#fff7e8", "Claws": "#7c6246" }
+        },
+        {
+            "name": "🌲 Rừng Thông Sương Mù",
+            "colors": { "Body": "#10251d", "Markings": "#1c3b2e", "Flank": "#315c45", "Underbelly": "#789d8b", "Detail": "#b8cfc2", "Display": "#d9e7df", "Eyes": "#9ce0b4", "Mouth": "#0b1a14", "Teeth": "#ffffff", "Claws": "#315c45" }
+        },
+        {
+            "name": "🍂 Lá Phong Mùa Thu",
+            "colors": { "Body": "#4a210f", "Markings": "#783817", "Flank": "#b65b22", "Underbelly": "#e99b3d", "Detail": "#ffd166", "Display": "#f4b942", "Eyes": "#fff0a3", "Mouth": "#34170a", "Teeth": "#fff9eb", "Claws": "#783817" }
+        },
+        {
+            "name": "🌸 Hoa Anh Đào Nhật Bản",
+            "colors": { "Body": "#8f415b", "Markings": "#b95f7a", "Flank": "#e993ae", "Underbelly": "#ffdbe6", "Detail": "#fff4f7", "Display": "#ffb7cf", "Eyes": "#ffeff5", "Mouth": "#6f2f47", "Teeth": "#ffffff", "Claws": "#e993ae" }
+        },
+        {
+            "name": "🌻 Cánh Đồng Hướng Dương",
+            "colors": { "Body": "#5b3a08", "Markings": "#80600d", "Flank": "#c99b19", "Underbelly": "#f4d03f", "Detail": "#fff1a6", "Display": "#ffe566", "Eyes": "#4d3710", "Mouth": "#422b06", "Teeth": "#fffbe8", "Claws": "#80600d" }
+        },
+        {
+            "name": "🌹 Hoa Hồng Đỏ Thẫm",
+            "colors": { "Body": "#35000a", "Markings": "#620016", "Flank": "#a5002b", "Underbelly": "#e63956", "Detail": "#ff8fa3", "Display": "#ffccd5", "Eyes": "#ff5c7a", "Mouth": "#260005", "Teeth": "#ffffff", "Claws": "#620016" }
+        },
+        {
+            "name": "🪷 Sen Hồng Bình Minh",
+            "colors": { "Body": "#8a3656", "Markings": "#b84e76", "Flank": "#ec7fa5", "Underbelly": "#ffd4e2", "Detail": "#fff1f6", "Display": "#ffb3cf", "Eyes": "#ffe2ed", "Mouth": "#68263f", "Teeth": "#ffffff", "Claws": "#b84e76" }
+        },
+        {
+            "name": "🏝️ Đảo Nhiệt Đới Caribbean",
+            "colors": { "Body": "#07544d", "Markings": "#0c8075", "Flank": "#1bb5a7", "Underbelly": "#f4d58d", "Detail": "#ffffff", "Display": "#4fd1c5", "Eyes": "#fff3c4", "Mouth": "#053a35", "Teeth": "#ffffff", "Claws": "#0c8075" }
+        },
+        {
+            "name": "🏜️ Hoàng Hôn Sahara",
+            "colors": { "Body": "#704214", "Markings": "#a36222", "Flank": "#d68b37", "Underbelly": "#f2c078", "Detail": "#ffe0a6", "Display": "#ffb56b", "Eyes": "#ffe6a3", "Mouth": "#4f2d0d", "Teeth": "#fff7e8", "Claws": "#a36222" }
+        },
+        {
+            "name": "🏔️ Đỉnh Núi Himalaya",
+            "colors": { "Body": "#53616e", "Markings": "#71808e", "Flank": "#9eafbc", "Underbelly": "#e9f2f7", "Detail": "#ffffff", "Display": "#d9f3ff", "Eyes": "#d4f4ff", "Mouth": "#39434d", "Teeth": "#ffffff", "Claws": "#71808e" }
+        },
+        {
+            "name": "🌋 Núi Phú Sĩ Bình Minh",
+            "colors": { "Body": "#3d4a59", "Markings": "#657383", "Flank": "#aeb9c3", "Underbelly": "#ffffff", "Detail": "#ffb5a7", "Display": "#ffd6c9", "Eyes": "#fff0e6", "Mouth": "#29333d", "Teeth": "#ffffff", "Claws": "#657383" }
+        },
+        {
+            "name": "🌾 Đồng Lúa Vàng",
+            "colors": { "Body": "#78631c", "Markings": "#a58b28", "Flank": "#d4b942", "Underbelly": "#f0d66b", "Detail": "#fff0a8", "Display": "#e8c85d", "Eyes": "#fff5bf", "Mouth": "#524212", "Teeth": "#ffffff", "Claws": "#a58b28" }
+        },
+        {
+            "name": "🍃 Tre Xanh Việt Nam",
+            "colors": { "Body": "#1e4d2b", "Markings": "#2f7040", "Flank": "#4f9b58", "Underbelly": "#9acb75", "Detail": "#d8f0b0", "Display": "#82c96a", "Eyes": "#d5ff9b", "Mouth": "#14351e", "Teeth": "#ffffff", "Claws": "#2f7040" }
+        },
+        {
+            "name": "🌊 Vịnh Biển Bình Yên",
+            "colors": { "Body": "#12465d", "Markings": "#1b6d88", "Flank": "#3e9db5", "Underbelly": "#a7dfe5", "Detail": "#e8ffff", "Display": "#75d5d0", "Eyes": "#c6fff7", "Mouth": "#0c3141", "Teeth": "#ffffff", "Claws": "#1b6d88" }
+        },
+        {
+            "name": "🌅 Bình Minh Hồng Phấn",
+            "colors": { "Body": "#7a3850", "Markings": "#aa5870", "Flank": "#df8da2", "Underbelly": "#ffc1b8", "Detail": "#ffe5a8", "Display": "#ffd0c8", "Eyes": "#fff2d8", "Mouth": "#542638", "Teeth": "#ffffff", "Claws": "#aa5870" }
+        },
+        {
+            "name": "🌇 Hoàng Hôn Tím Cam",
+            "colors": { "Body": "#40235e", "Markings": "#6b3b87", "Flank": "#a65f8f", "Underbelly": "#ef8b62", "Detail": "#ffc46b", "Display": "#f6a3d2", "Eyes": "#ffe3a3", "Mouth": "#2b1840", "Teeth": "#ffffff", "Claws": "#6b3b87" }
+        },
+        {
+            "name": "🏖️ Cát Trắng Maldives",
+            "colors": { "Body": "#b89b68", "Markings": "#d2ba89", "Flank": "#ecd9ac", "Underbelly": "#fff7df", "Detail": "#ffffff", "Display": "#dff6f7", "Eyes": "#bffcff", "Mouth": "#8c7550", "Teeth": "#ffffff", "Claws": "#d2ba89" }
+        },
+        {
+            "name": "🛶 Sông Amazon Hoang Dã",
+            "colors": { "Body": "#163f2a", "Markings": "#255f3d", "Flank": "#3d8954", "Underbelly": "#8cbf75", "Detail": "#cce8a8", "Display": "#72c28b", "Eyes": "#e2ffd1", "Mouth": "#0e2a1b", "Teeth": "#ffffff", "Claws": "#255f3d" }
+        },
+        {
+            "name": "🏕️ Cắm Trại Bên Hồ",
+            "colors": { "Body": "#304537", "Markings": "#4d6853", "Flank": "#718c6f", "Underbelly": "#b8c99a", "Detail": "#f0d38a", "Display": "#a8d8ca", "Eyes": "#fff0b3", "Mouth": "#213027", "Teeth": "#ffffff", "Claws": "#4d6853" }
+        },
+        {
+            "name": "🌺 Vườn Hoa Nhiệt Đới",
+            "colors": { "Body": "#1f593d", "Markings": "#3c8055", "Flank": "#e85d75", "Underbelly": "#f7b267", "Detail": "#f4e285", "Display": "#d36ac2", "Eyes": "#fff3a8", "Mouth": "#153d2a", "Teeth": "#ffffff", "Claws": "#3c8055" }
+        },
+        {
+            "name": "🪨 Đá Granite Xám",
+            "colors": { "Body": "#4a4f52", "Markings": "#60676b", "Flank": "#7b8285", "Underbelly": "#aeb5b8", "Detail": "#d6dbdd", "Display": "#c4c9cc", "Eyes": "#e8edef", "Mouth": "#34383a", "Teeth": "#ffffff", "Claws": "#60676b" }
+        }
+    ],
+    "🐾 Động Vật & Sinh Vật": [
+        {
+            "name": "🦚 Chim Công Hoàng Gia",
+            "colors": { "Body": "#032b2b", "Markings": "#075c5c", "Flank": "#0f8b8d", "Underbelly": "#1bb7a5", "Detail": "#d4af37", "Display": "#27d3c2", "Eyes": "#4fe3d1", "Mouth": "#021d1d", "Teeth": "#fffdf5", "Claws": "#d4af37" }
+        },
+        {
+            "name": "🐯 Hổ Bengal Hoang Dã",
+            "colors": { "Body": "#9b4a0a", "Markings": "#2b1a0b", "Flank": "#e57d16", "Underbelly": "#f6c98b", "Detail": "#fff0cf", "Display": "#ffb347", "Eyes": "#ffd54f", "Mouth": "#3a1608", "Teeth": "#ffffff", "Claws": "#1a120b" }
+        },
+        {
+            "name": "🦓 Ngựa Vằn Châu Phi",
+            "colors": { "Body": "#161616", "Markings": "#f2f2f2", "Flank": "#4a4a4a", "Underbelly": "#dedede", "Detail": "#ffffff", "Display": "#bdbdbd", "Eyes": "#d4d4d4", "Mouth": "#242424", "Teeth": "#ffffff", "Claws": "#111111" }
+        },
+        {
+            "name": "🦊 Cáo Tuyết Phương Bắc",
+            "colors": { "Body": "#e8edf0", "Markings": "#c6d0d6", "Flank": "#ffffff", "Underbelly": "#f7fafc", "Detail": "#9db4c0", "Display": "#dceeff", "Eyes": "#79c7e3", "Mouth": "#8ca0aa", "Teeth": "#ffffff", "Claws": "#71808a" }
+        },
+        {
+            "name": "🐼 Gấu Trúc Tre Xanh",
+            "colors": { "Body": "#151515", "Markings": "#f7f7f2", "Flank": "#252525", "Underbelly": "#eceee8", "Detail": "#4f7f42", "Display": "#7fbf6a", "Eyes": "#d9e8d3", "Mouth": "#111111", "Teeth": "#ffffff", "Claws": "#1d1d1d" }
+        },
+        {
+            "name": "🦩 Hồng Hạc Nhiệt Đới",
+            "colors": { "Body": "#c94f72", "Markings": "#e97898", "Flank": "#ff9fba", "Underbelly": "#ffd2df", "Detail": "#ffeff4", "Display": "#ffb6cd", "Eyes": "#fff0f5", "Mouth": "#8d2d4a", "Teeth": "#ffffff", "Claws": "#b83e62" }
+        },
+        {
+            "name": "🐸 Ếch Rừng Amazon",
+            "colors": { "Body": "#124d2d", "Markings": "#1d7440", "Flank": "#43a047", "Underbelly": "#8bcf63", "Detail": "#d9f99d", "Display": "#a7f3d0", "Eyes": "#f6ff75", "Mouth": "#0b351f", "Teeth": "#ffffff", "Claws": "#1d7440" }
+        },
+        {
+            "name": "🦋 Bướm Morpho Xanh",
+            "colors": { "Body": "#082b57", "Markings": "#0e5a9b", "Flank": "#1587d4", "Underbelly": "#74c7f5", "Detail": "#d6f2ff", "Display": "#48b9ff", "Eyes": "#bff3ff", "Mouth": "#061d3a", "Teeth": "#ffffff", "Claws": "#0e5a9b" }
+        },
+        {
+            "name": "🐝 Ong Mật Hoàng Kim",
+            "colors": { "Body": "#3b2a00", "Markings": "#6b4e00", "Flank": "#d6a300", "Underbelly": "#ffd84d", "Detail": "#fff0a6", "Display": "#ffcc33", "Eyes": "#3a2800", "Mouth": "#241900", "Teeth": "#fffdf2", "Claws": "#2b2000" }
+        },
+        {
+            "name": "🐬 Đại Dương Ngọc Lam",
+            "colors": { "Body": "#063a4b", "Markings": "#086a7b", "Flank": "#0da7b5", "Underbelly": "#8ee9e2", "Detail": "#d4fff7", "Display": "#64e3dc", "Eyes": "#c4fff8", "Mouth": "#042832", "Teeth": "#ffffff", "Claws": "#086a7b" }
+        },
+        {
+            "name": "🪸 San Hô Biển Sâu",
+            "colors": { "Body": "#5b2946", "Markings": "#8a3f63", "Flank": "#d65d7a", "Underbelly": "#ff9e9e", "Detail": "#ffd6a5", "Display": "#ffb8c6", "Eyes": "#b8fff0", "Mouth": "#3d1b30", "Teeth": "#ffffff", "Claws": "#8a3f63" }
+        },
+        {
+            "name": "🦅 Đại Bàng Hoàng Kim",
+            "colors": { "Body": "#3f2a12", "Markings": "#65431a", "Flank": "#9b6b27", "Underbelly": "#d8b46b", "Detail": "#f0d27a", "Display": "#ffd166", "Eyes": "#fff0a3", "Mouth": "#2b1d0c", "Teeth": "#ffffff", "Claws": "#65431a" }
+        },
+        {
+            "name": "🦉 Cú Đêm Rừng Sâu",
+            "colors": { "Body": "#342b25", "Markings": "#4d4036", "Flank": "#786656", "Underbelly": "#b8a58e", "Detail": "#e8d9c2", "Display": "#d6c6b0", "Eyes": "#ffd45c", "Mouth": "#241e19", "Teeth": "#ffffff", "Claws": "#4d4036" }
+        },
+        {
+            "name": "🐺 Sói Bắc Âu",
+            "colors": { "Body": "#41474d", "Markings": "#5d6872", "Flank": "#88949d", "Underbelly": "#c8d0d4", "Detail": "#e8edf0", "Display": "#dbe7ee", "Eyes": "#aee8ff", "Mouth": "#2c3136", "Teeth": "#ffffff", "Claws": "#5d6872" }
+        },
+        {
+            "name": "🐎 Ngựa Hoang Mustang",
+            "colors": { "Body": "#4b2d19", "Markings": "#704526", "Flank": "#a66a3d", "Underbelly": "#d9a675", "Detail": "#f0d1a5", "Display": "#dca96a", "Eyes": "#ffd699", "Mouth": "#321d10", "Teeth": "#fff8ef", "Claws": "#704526" }
+        },
+        {
+            "name": "🐘 Voi Châu Á",
+            "colors": { "Body": "#62615b", "Markings": "#7b7a73", "Flank": "#9c9b91", "Underbelly": "#c4c1b5", "Detail": "#dedbd0", "Display": "#d3d0c5", "Eyes": "#5a5045", "Mouth": "#4b4a45", "Teeth": "#fffaf0", "Claws": "#7b7a73" }
+        },
+        {
+            "name": "🦒 Hươu Cao Cổ Savannah",
+            "colors": { "Body": "#9b6a28", "Markings": "#6d4318", "Flank": "#d39a45", "Underbelly": "#f0d090", "Detail": "#fff0bd", "Display": "#e7b96a", "Eyes": "#5a3510", "Mouth": "#704516", "Teeth": "#fffaf0", "Claws": "#6d4318" }
+        },
+        {
+            "name": "🦜 Vẹt Macaw Rực Rỡ",
+            "colors": { "Body": "#0c4a7d", "Markings": "#d72638", "Flank": "#f6c945", "Underbelly": "#2eaf65", "Detail": "#ffffff", "Display": "#e639e6", "Eyes": "#fff8d1", "Mouth": "#9f1f2c", "Teeth": "#ffffff", "Claws": "#2eaf65" }
+        },
+        {
+            "name": "🐠 Cá Hề Đại Dương",
+            "colors": { "Body": "#d94b18", "Markings": "#ffffff", "Flank": "#f47c24", "Underbelly": "#ffbf69", "Detail": "#242424", "Display": "#ff9d4d", "Eyes": "#ffffff", "Mouth": "#a83310", "Teeth": "#ffffff", "Claws": "#242424" }
+        },
+        {
+            "name": "🦈 Cá Mập Bạc",
+            "colors": { "Body": "#546d7a", "Markings": "#6f8996", "Flank": "#93aab5", "Underbelly": "#d9e1e5", "Detail": "#ffffff", "Display": "#a8d8e8", "Eyes": "#d8f6ff", "Mouth": "#354650", "Teeth": "#ffffff", "Claws": "#6f8996" }
+        },
+        {
+            "name": "🐢 Rùa Biển Xanh",
+            "colors": { "Body": "#214f3c", "Markings": "#39725a", "Flank": "#5e9d7a", "Underbelly": "#c7d7a5", "Detail": "#e6f0c2", "Display": "#8bd3b2", "Eyes": "#c7f9cc", "Mouth": "#16372a", "Teeth": "#ffffff", "Claws": "#39725a" }
+        },
+        {
+            "name": "🦀 Cua Hoàng Đế",
+            "colors": { "Body": "#6d1f16", "Markings": "#9d3020", "Flank": "#d24a32", "Underbelly": "#f08b66", "Detail": "#ffd2b8", "Display": "#ff765c", "Eyes": "#fff0d6", "Mouth": "#4b150f", "Teeth": "#ffffff", "Claws": "#9d3020" }
+        },
+        {
+            "name": "🐙 Bạch Tuộc Tím",
+            "colors": { "Body": "#351a5b", "Markings": "#532985", "Flank": "#7b4ab5", "Underbelly": "#b58be0", "Detail": "#e4c9ff", "Display": "#c4a3ff", "Eyes": "#fff1ff", "Mouth": "#24113d", "Teeth": "#ffffff", "Claws": "#532985" }
+        }
+    ],
+    "🏰 Thần Thoại & Huyền Ảo": [
+        {
+            "name": "🏰 Lâu Đài Băng Tuyết",
+            "colors": { "Body": "#49687a", "Markings": "#63889d", "Flank": "#8eb8cf", "Underbelly": "#d9f3ff", "Detail": "#ffffff", "Display": "#b9eaff", "Eyes": "#d8f8ff", "Mouth": "#344c59", "Teeth": "#ffffff", "Claws": "#63889d" }
+        },
+        {
+            "name": "🏛️ Đền Thờ Hy Lạp",
+            "colors": { "Body": "#d8d0bd", "Markings": "#b9af99", "Flank": "#e8e0ce", "Underbelly": "#fffaf0", "Detail": "#c9a84d", "Display": "#f3ead5", "Eyes": "#d8bd70", "Mouth": "#968b78", "Teeth": "#ffffff", "Claws": "#b9af99" }
+        },
+        {
+            "name": "🐉 Rồng Ngọc Phương Đông",
+            "colors": { "Body": "#063d32", "Markings": "#0a604f", "Flank": "#11947b", "Underbelly": "#59c9a5", "Detail": "#e0c15a", "Display": "#8ee3c3", "Eyes": "#ffe67a", "Mouth": "#042a23", "Teeth": "#ffffff", "Claws": "#0a604f" }
+        },
+        {
+            "name": "🦄 Kỳ Lân Ánh Trăng",
+            "colors": { "Body": "#ded6f5", "Markings": "#b9a8e8", "Flank": "#9d8ce0", "Underbelly": "#fff8ff", "Detail": "#f2c4ff", "Display": "#d5b8ff", "Eyes": "#ffffff", "Mouth": "#a796cc", "Teeth": "#ffffff", "Claws": "#9d8ce0" }
+        },
+        {
+            "name": "🧜 Nàng Tiên Biển Emerald",
+            "colors": { "Body": "#075c53", "Markings": "#0b8275", "Flank": "#13b8a6", "Underbelly": "#80e0d3", "Detail": "#ffe1a8", "Display": "#5eead4", "Eyes": "#b8fff5", "Mouth": "#05423b", "Teeth": "#ffffff", "Claws": "#0b8275" }
+        },
+        {
+            "name": "⚔️ Hiệp Sĩ Bạc",
+            "colors": { "Body": "#56616b", "Markings": "#7a8792", "Flank": "#aeb9c2", "Underbelly": "#e5eaee", "Detail": "#d4af37", "Display": "#ffffff", "Eyes": "#8ee8ff", "Mouth": "#3f474e", "Teeth": "#ffffff", "Claws": "#7a8792" }
+        },
+        {
+            "name": "👑 Vương Miện Hoàng Gia",
+            "colors": { "Body": "#4a0038", "Markings": "#74005b", "Flank": "#a90082", "Underbelly": "#d4af37", "Detail": "#fff1a8", "Display": "#ffd700", "Eyes": "#fce38a", "Mouth": "#300024", "Teeth": "#fffdf0", "Claws": "#d4af37" }
+        },
+        {
+            "name": "🐉 Long Lân Cổ Đại",
+            "colors": { "Body": "#4b3621", "Markings": "#6b5134", "Flank": "#987347", "Underbelly": "#d2b48c", "Detail": "#c9a227", "Display": "#e6d39a", "Eyes": "#ffdf70", "Mouth": "#342516", "Teeth": "#fff9e6", "Claws": "#6b5134" }
+        },
+        {
+            "name": "🗺️ Bản Đồ Kho Báu",
+            "colors": { "Body": "#5b4226", "Markings": "#7e6039", "Flank": "#aa8958", "Underbelly": "#dec697", "Detail": "#f4e4bd", "Display": "#e8bd65", "Eyes": "#fff0b3", "Mouth": "#3f2d19", "Teeth": "#fffaf0", "Claws": "#7e6039" }
+        },
+        {
+            "name": "🏴‍☠️ Hải Tặc Biển Xanh",
+            "colors": { "Body": "#0b3044", "Markings": "#164e63", "Flank": "#26738a", "Underbelly": "#d8c8a8", "Detail": "#c99a2e", "Display": "#9ad4e5", "Eyes": "#d8f8ff", "Mouth": "#07212f", "Teeth": "#ffffff", "Claws": "#164e63" }
+        },
+        {
+            "name": "🧭 La Bàn Thám Hiểm",
+            "colors": { "Body": "#28333a", "Markings": "#42535d", "Flank": "#71828b", "Underbelly": "#c8d0cc", "Detail": "#b9892c", "Display": "#e2c56d", "Eyes": "#7bdff2", "Mouth": "#1c2429", "Teeth": "#ffffff", "Claws": "#42535d" }
+        },
+        {
+            "name": "🪄 Phép Thuật Cầu Vồng",
+            "colors": { "Body": "#43216d", "Markings": "#7a3eb1", "Flank": "#d94fb8", "Underbelly": "#7fd1d1", "Detail": "#ffd166", "Display": "#a5f3fc", "Eyes": "#ffffff", "Mouth": "#2d1648", "Teeth": "#ffffff", "Claws": "#7a3eb1" }
+        },
+        {
+            "name": "🪽 Thiên Sứ Bình Minh",
+            "colors": { "Body": "#d9d0b4", "Markings": "#eee4c7", "Flank": "#fff8e6", "Underbelly": "#ffffff", "Detail": "#d4af37", "Display": "#fff0b8", "Eyes": "#dff8ff", "Mouth": "#b8ae96", "Teeth": "#ffffff", "Claws": "#d4af37" }
+        },
+        {
+            "name": "🧊 Hang Băng Pha Lê",
+            "colors": { "Body": "#17465e", "Markings": "#256b87", "Flank": "#4b9fbd", "Underbelly": "#a8e3f2", "Detail": "#e4fcff", "Display": "#b8f4ff", "Eyes": "#ffffff", "Mouth": "#0f3040", "Teeth": "#ffffff", "Claws": "#256b87" }
+        }
+    ],
+    "💎 Kho Báu & Trang Sức": [
+        {
+            "name": "💎 Kim Cương Băng Giá",
+            "colors": { "Body": "#5f8fa3", "Markings": "#79b4c9", "Flank": "#9ce1ef", "Underbelly": "#e5fcff", "Detail": "#ffffff", "Display": "#baf7ff", "Eyes": "#ffffff", "Mouth": "#456a78", "Teeth": "#ffffff", "Claws": "#79b4c9" }
+        },
+        {
+            "name": "💚 Ngọc Lục Bảo",
+            "colors": { "Body": "#063b24", "Markings": "#075c36", "Flank": "#0b8c52", "Underbelly": "#28c77b", "Detail": "#8fffc3", "Display": "#4cff9c", "Eyes": "#c7ffe0", "Mouth": "#042a19", "Teeth": "#ffffff", "Claws": "#075c36" }
+        },
+        {
+            "name": "❤️ Hồng Ngọc Hoàng Hôn",
+            "colors": { "Body": "#4a0712", "Markings": "#730b1c", "Flank": "#b11232", "Underbelly": "#e53e5c", "Detail": "#ff9eaa", "Display": "#ff5c78", "Eyes": "#ffd1d9", "Mouth": "#31040b", "Teeth": "#ffffff", "Claws": "#730b1c" }
+        },
+        {
+            "name": "💜 Thạch Anh Tím",
+            "colors": { "Body": "#2d1747", "Markings": "#48246d", "Flank": "#7542a6", "Underbelly": "#b18ae0", "Detail": "#e2c6ff", "Display": "#c59cff", "Eyes": "#f0dcff", "Mouth": "#1e0f30", "Teeth": "#ffffff", "Claws": "#7542a6" }
+        },
+        {
+            "name": "🟠 Hổ Phách Cổ Đại",
+            "colors": { "Body": "#4b2600", "Markings": "#743b00", "Flank": "#aa6200", "Underbelly": "#e69b27", "Detail": "#ffd36a", "Display": "#ffb72c", "Eyes": "#fff0a3", "Mouth": "#331a00", "Teeth": "#fff9e8", "Claws": "#743b00" }
+        },
+        {
+            "name": "🧿 Bùa Mắt Nazar",
+            "colors": { "Body": "#052f63", "Markings": "#0b5fa5", "Flank": "#178fd0", "Underbelly": "#f4f7fa", "Detail": "#3f89d8", "Display": "#ffffff", "Eyes": "#0a3f8c", "Mouth": "#04264f", "Teeth": "#ffffff", "Claws": "#0b5fa5" }
+        }
+    ],
+    "🎨 Nghệ Thuật, Trò Chơi & Giải Trí": [
+        {
+            "name": "🎭 Mặt Nạ Venice",
+            "colors": { "Body": "#2c2340", "Markings": "#5a4377", "Flank": "#b08d57", "Underbelly": "#e8d8b0", "Detail": "#f4e9c9", "Display": "#d4af37", "Eyes": "#5c3b84", "Mouth": "#1d1729", "Teeth": "#ffffff", "Claws": "#b08d57" }
+        },
+        {
+            "name": "🎪 Xiếc Carnival",
+            "colors": { "Body": "#174d78", "Markings": "#d63230", "Flank": "#f2c14e", "Underbelly": "#fff3d6", "Detail": "#8b5fbf", "Display": "#ff6b6b", "Eyes": "#7ce577", "Mouth": "#a51d2d", "Teeth": "#ffffff", "Claws": "#f2c14e" }
+        },
+        {
+            "name": "🎨 Sơn Dầu Monet",
+            "colors": { "Body": "#557a95", "Markings": "#78a1bb", "Flank": "#a6c6d9", "Underbelly": "#f2e6c9", "Detail": "#e9a4a4", "Display": "#b6d88f", "Eyes": "#f5d76e", "Mouth": "#456276", "Teeth": "#fffdf7", "Claws": "#78a1bb" }
+        },
+        {
+            "name": "🖌️ Tranh Màu Nước",
+            "colors": { "Body": "#7aa6c2", "Markings": "#a8c7da", "Flank": "#f0a6b8", "Underbelly": "#f8e4b5", "Detail": "#b7dca8", "Display": "#d6b3e6", "Eyes": "#d5f1ff", "Mouth": "#5d839b", "Teeth": "#ffffff", "Claws": "#a8c7da" }
+        },
+        {
+            "name": "🧩 Khối Rubik Cổ Điển",
+            "colors": { "Body": "#191919", "Markings": "#e63946", "Flank": "#457b9d", "Underbelly": "#f1fa8c", "Detail": "#2a9d8f", "Display": "#f77f00", "Eyes": "#ffffff", "Mouth": "#111111", "Teeth": "#ffffff", "Claws": "#e63946" }
+        },
+        {
+            "name": "🎲 Xúc Xắc Casino",
+            "colors": { "Body": "#f8f8f8", "Markings": "#d7d7d7", "Flank": "#ffffff", "Underbelly": "#e9e9e9", "Detail": "#c21f30", "Display": "#f4d03f", "Eyes": "#1a1a1a", "Mouth": "#c21f30", "Teeth": "#ffffff", "Claws": "#1a1a1a" }
+        },
+        {
+            "name": "♟️ Cờ Vua Đen Trắng",
+            "colors": { "Body": "#181818", "Markings": "#343434", "Flank": "#f0f0f0", "Underbelly": "#ffffff", "Detail": "#9a9a9a", "Display": "#d9d9d9", "Eyes": "#ffffff", "Mouth": "#090909", "Teeth": "#ffffff", "Claws": "#181818" }
+        }
+    ],
+    "🚀 Phương Tiện & Du Hành": [
+        {
+            "name": "🚂 Tàu Hơi Nước Cổ Điển",
+            "colors": { "Body": "#25282b", "Markings": "#42474b", "Flank": "#6e4b2f", "Underbelly": "#9b7654", "Detail": "#c9a227", "Display": "#f0d27a", "Eyes": "#b8e0ef", "Mouth": "#191b1d", "Teeth": "#ffffff", "Claws": "#42474b" }
+        },
+        {
+            "name": "✈️ Bầu Trời Hàng Không",
+            "colors": { "Body": "#244d73", "Markings": "#3d78a8", "Flank": "#6ca6cf", "Underbelly": "#d9efff", "Detail": "#ffffff", "Display": "#9ed8ff", "Eyes": "#e9f9ff", "Mouth": "#18364f", "Teeth": "#ffffff", "Claws": "#3d78a8" }
+        },
+        {
+            "name": "🚁 Trực Thăng Quân Đội",
+            "colors": { "Body": "#34422d", "Markings": "#4f6244", "Flank": "#738465", "Underbelly": "#a5b398", "Detail": "#c9b458", "Display": "#d7e0c7", "Eyes": "#b8e986", "Mouth": "#253020", "Teeth": "#ffffff", "Claws": "#4f6244" }
+        },
+        {
+            "name": "🏎️ Xe Đua Công Thức",
+            "colors": { "Body": "#a30816", "Markings": "#d61f2c", "Flank": "#f5f5f5", "Underbelly": "#2b2b2b", "Detail": "#ffd400", "Display": "#ffffff", "Eyes": "#61dafb", "Mouth": "#70050e", "Teeth": "#ffffff", "Claws": "#1c1c1c" }
+        },
+        {
+            "name": "🏍️ Mô Tô Cafe Racer",
+            "colors": { "Body": "#2c2926", "Markings": "#4a443e", "Flank": "#8b5e3c", "Underbelly": "#c9b18d", "Detail": "#d97736", "Display": "#f1d6a8", "Eyes": "#ffd166", "Mouth": "#1d1b19", "Teeth": "#ffffff", "Claws": "#4a443e" }
+        },
+        {
+            "name": "🚜 Máy Cày Đồng Lúa",
+            "colors": { "Body": "#31572c", "Markings": "#4f772d", "Flank": "#90a955", "Underbelly": "#d4b86a", "Detail": "#f4d35e", "Display": "#b7d36b", "Eyes": "#fff1a8", "Mouth": "#233d20", "Teeth": "#ffffff", "Claws": "#4f772d" }
+        }
+    ],
+    "🎉 Lễ Hội & Quà Tặng": [
+        {
+            "name": "🏮 Đèn Lồng Hội Hoa",
+            "colors": { "Body": "#7a1010", "Markings": "#b51f1f", "Flank": "#e43d30", "Underbelly": "#ff9f43", "Detail": "#f7d154", "Display": "#ffe7a3", "Eyes": "#fff2bf", "Mouth": "#520909", "Teeth": "#ffffff", "Claws": "#b51f1f" }
+        },
+        {
+            "name": "🎆 Pháo Hoa Đêm Lễ",
+            "colors": { "Body": "#10142b", "Markings": "#f94144", "Flank": "#577590", "Underbelly": "#f9c74f", "Detail": "#43aa8b", "Display": "#c77dff", "Eyes": "#ffffff", "Mouth": "#080a16", "Teeth": "#ffffff", "Claws": "#f94144" }
+        },
+        {
+            "name": "🎁 Quà Giáng Sinh",
+            "colors": { "Body": "#7a1020", "Markings": "#b51f31", "Flank": "#f0e9d2", "Underbelly": "#ffffff", "Detail": "#2f7d4d", "Display": "#d4af37", "Eyes": "#ffe9a8", "Mouth": "#520a15", "Teeth": "#ffffff", "Claws": "#2f7d4d" }
+        },
+        {
+            "name": "🎃 Đêm Thu Hoạch",
+            "colors": { "Body": "#4a250c", "Markings": "#704013", "Flank": "#b86b1d", "Underbelly": "#e6a84a", "Detail": "#8b9a46", "Display": "#ffd27a", "Eyes": "#fff0a8", "Mouth": "#351a08", "Teeth": "#ffffff", "Claws": "#704013" }
+        },
+        {
+            "name": "☁️ Mây Kẹo Bông",
+            "colors": { "Body": "#b9d7f0", "Markings": "#d4e9f7", "Flank": "#ffd0e1", "Underbelly": "#fff5fa", "Detail": "#e3c6ff", "Display": "#bde0fe", "Eyes": "#ffffff", "Mouth": "#a7c4db", "Teeth": "#ffffff", "Claws": "#d4e9f7" }
+        },
+        {
+            "name": "🍭 Kẹo Bông Gòn",
+            "colors": { "Body": "#d989b4", "Markings": "#f2add0", "Flank": "#a9d9f5", "Underbelly": "#fff0f7", "Detail": "#f5e88b", "Display": "#ffb3d9", "Eyes": "#ffffff", "Mouth": "#b85f91", "Teeth": "#ffffff", "Claws": "#a9d9f5" }
+        },
+        {
+            "name": "🫧 Bong Bóng Xà Phòng",
+            "colors": { "Body": "#9dcbe0", "Markings": "#c3e4ef", "Flank": "#e7b6dd", "Underbelly": "#f7fcff", "Detail": "#d7f0a3", "Display": "#d5f5ff", "Eyes": "#ffffff", "Mouth": "#7598a8", "Teeth": "#ffffff", "Claws": "#c3e4ef" }
+        },
+        {
+            "name": "🪁 Diều Màu Gió",
+            "colors": { "Body": "#c23b4a", "Markings": "#e56b6f", "Flank": "#f0c94e", "Underbelly": "#7acb88", "Detail": "#5fa8d3", "Display": "#b48ee5", "Eyes": "#fff3bf", "Mouth": "#872834", "Teeth": "#ffffff", "Claws": "#5fa8d3" }
+        },
+        {
+            "name": "🎈 Bóng Bay Lễ Hội",
+            "colors": { "Body": "#e05263", "Markings": "#f58c99", "Flank": "#6aa9e0", "Underbelly": "#ffe38a", "Detail": "#7dd6a5", "Display": "#c69cf0", "Eyes": "#ffffff", "Mouth": "#b33847", "Teeth": "#ffffff", "Claws": "#6aa9e0" }
+        }
+    ],
+    "🎵 Âm Nhạc & Thể Thao": [
+        {
+            "name": "🎹 Piano Đen Trắng",
+            "colors": { "Body": "#121212", "Markings": "#242424", "Flank": "#3a3a3a", "Underbelly": "#f7f7f7", "Detail": "#ffffff", "Display": "#dedede", "Eyes": "#ffffff", "Mouth": "#080808", "Teeth": "#ffffff", "Claws": "#242424" }
+        },
+        {
+            "name": "🎸 Guitar Rock Gỗ Đỏ",
+            "colors": { "Body": "#4f120f", "Markings": "#7d2018", "Flank": "#b13a27", "Underbelly": "#d89a65", "Detail": "#f0d28a", "Display": "#ff7b54", "Eyes": "#ffd28a", "Mouth": "#330b09", "Teeth": "#ffffff", "Claws": "#7d2018" }
+        },
+        {
+            "name": "🥁 Trống Lễ Hội",
+            "colors": { "Body": "#7b1f2d", "Markings": "#b83a4b", "Flank": "#e5b44d", "Underbelly": "#f4d88a", "Detail": "#fff1c7", "Display": "#e9c46a", "Eyes": "#fff3bf", "Mouth": "#52141e", "Teeth": "#ffffff", "Claws": "#b83a4b" }
+        },
+        {
+            "name": "🎺 Kèn Jazz Đồng",
+            "colors": { "Body": "#57380d", "Markings": "#805519", "Flank": "#b67b2d", "Underbelly": "#e1b45d", "Detail": "#f5dc94", "Display": "#e8c76e", "Eyes": "#fff0b3", "Mouth": "#382407", "Teeth": "#fffaf0", "Claws": "#805519" }
+        },
+        {
+            "name": "🏆 Cúp Vô Địch",
+            "colors": { "Body": "#765509", "Markings": "#a77b0c", "Flank": "#d4a719", "Underbelly": "#f0cd4f", "Detail": "#fff0a0", "Display": "#ffd700", "Eyes": "#fff5bd", "Mouth": "#4f3906", "Teeth": "#ffffff", "Claws": "#a77b0c" }
+        },
+        {
+            "name": "🥇 Huy Chương Vàng",
+            "colors": { "Body": "#7a5b09", "Markings": "#a9810f", "Flank": "#d8af25", "Underbelly": "#f4d35e", "Detail": "#fff1a8", "Display": "#ffd84d", "Eyes": "#fff5c2", "Mouth": "#513c06", "Teeth": "#ffffff", "Claws": "#a9810f" }
+        },
+        {
+            "name": "🏅 Huy Chương Đồng",
+            "colors": { "Body": "#5b3117", "Markings": "#7f4923", "Flank": "#ad6a32", "Underbelly": "#d99b5f", "Detail": "#f0c38e", "Display": "#d98b45", "Eyes": "#ffe0b3", "Mouth": "#3d210f", "Teeth": "#ffffff", "Claws": "#7f4923" }
+        },
+        {
+            "name": "⚽ Sân Cỏ Bóng Đá",
+            "colors": { "Body": "#1c5c2e", "Markings": "#2f7f42", "Flank": "#4fae5d", "Underbelly": "#d8e8b8", "Detail": "#ffffff", "Display": "#75c66d", "Eyes": "#eaffd1", "Mouth": "#123d1e", "Teeth": "#ffffff", "Claws": "#2f7f42" }
+        },
+        {
+            "name": "🏀 Sân Bóng Rổ Cam",
+            "colors": { "Body": "#70370e", "Markings": "#a95616", "Flank": "#d97825", "Underbelly": "#f0a95d", "Detail": "#f7d08a", "Display": "#ff9f43", "Eyes": "#ffe1ad", "Mouth": "#4a2409", "Teeth": "#ffffff", "Claws": "#a95616" }
+        },
+        {
+            "name": "🎾 Sân Tennis Xanh",
+            "colors": { "Body": "#0f5132", "Markings": "#197a4b", "Flank": "#2ca66d", "Underbelly": "#a4d65e", "Detail": "#eaffb8", "Display": "#c6f36b", "Eyes": "#f0ffd1", "Mouth": "#0a3722", "Teeth": "#ffffff", "Claws": "#197a4b" }
+        },
+        {
+            "name": "⛳ Sân Golf Buổi Sớm",
+            "colors": { "Body": "#2f5e2d", "Markings": "#4a803f", "Flank": "#78ad55", "Underbelly": "#b8d986", "Detail": "#e9f4c4", "Display": "#9bd47a", "Eyes": "#fff7c2", "Mouth": "#20401f", "Teeth": "#ffffff", "Claws": "#4a803f" }
+        },
+        {
+            "name": "🎻 Gỗ Mahogany Cổ Điển",
+            "colors": { "Body": "#35170f", "Markings": "#54251a", "Flank": "#7b3b26", "Underbelly": "#b56b43", "Detail": "#d8a47f", "Display": "#f0c6a2", "Eyes": "#f4d6b8", "Mouth": "#24100a", "Teeth": "#fffaf5", "Claws": "#54251a" }
+        },
+        {
+            "name": "📚 Thư Viện Cổ",
+            "colors": { "Body": "#2d2118", "Markings": "#473526", "Flank": "#73553a", "Underbelly": "#a98761", "Detail": "#d4b483", "Display": "#e8d7b0", "Eyes": "#f5df9e", "Mouth": "#1e1711", "Teeth": "#fffaf0", "Claws": "#473526" }
+        },
+        {
+            "name": "🕰️ Đồng Hồ Đồng Thau",
+            "colors": { "Body": "#4a3515", "Markings": "#6e521e", "Flank": "#a27a2c", "Underbelly": "#d0aa57", "Detail": "#f0d98a", "Display": "#e0bd62", "Eyes": "#fff0b8", "Mouth": "#30230e", "Teeth": "#fffaf0", "Claws": "#6e521e" }
+        },
+        {
+            "name": "🌉 Cầu Cảng Hoàng Hôn",
+            "colors": { "Body": "#273747", "Markings": "#3d566b", "Flank": "#6e8191", "Underbelly": "#e6a36f", "Detail": "#ffc58c", "Display": "#ff9b7b", "Eyes": "#ffe0a3", "Mouth": "#1b2630", "Teeth": "#ffffff", "Claws": "#3d566b" }
+        },
+        {
+            "name": "🗼 Tháp Paris Đêm",
+            "colors": { "Body": "#30323d", "Markings": "#4a4d5a", "Flank": "#6b6f7e", "Underbelly": "#d8c278", "Detail": "#fff1a8", "Display": "#e6cf85", "Eyes": "#ffe9a3", "Mouth": "#20212a", "Teeth": "#ffffff", "Claws": "#4a4d5a" }
+        },
+        {
+            "name": "🗽 Tượng Tự Do Đồng",
+            "colors": { "Body": "#234b4a", "Markings": "#326965", "Flank": "#4d8a80", "Underbelly": "#87b5a7", "Detail": "#c7d9c7", "Display": "#9ac7bb", "Eyes": "#dfffe8", "Mouth": "#183635", "Teeth": "#ffffff", "Claws": "#326965" }
+        },
+        {
+            "name": "⛩️ Cổng Torii Đỏ",
+            "colors": { "Body": "#7b1015", "Markings": "#a51d24", "Flank": "#d63b3f", "Underbelly": "#f2c98d", "Detail": "#ffffff", "Display": "#e85d5d", "Eyes": "#fff0c2", "Mouth": "#530b0f", "Teeth": "#ffffff", "Claws": "#a51d24" }
+        },
+        {
+            "name": "🕌 Đêm Trung Đông",
+            "colors": { "Body": "#34264d", "Markings": "#53406f", "Flank": "#80619c", "Underbelly": "#c9aa70", "Detail": "#f4d78b", "Display": "#e6c578", "Eyes": "#fff0ad", "Mouth": "#231a33", "Teeth": "#ffffff", "Claws": "#53406f" }
+        },
+        {
+            "name": "🛕 Đền Vàng Châu Á",
+            "colors": { "Body": "#6d4a09", "Markings": "#967018", "Flank": "#c79c2a", "Underbelly": "#e6c865", "Detail": "#fff0a6", "Display": "#f3d46f", "Eyes": "#fff6c9", "Mouth": "#493106", "Teeth": "#ffffff", "Claws": "#967018" }
+        }
+    ],
+    "⚔️ Võ Hiệp, Tiên Hiệp & Phong Thần": [
+    { "name": "☯️ Thái Cực Âm Dương", "colors": { "Body": "#000000", "Markings": "#ffffff", "Flank": "#1a1a1a", "Underbelly": "#f5f5f5", "Detail": "#3b82f6", "Display": "#ffffff", "Eyes": "#00f0ff", "Mouth": "#000000", "Teeth": "#ffffff", "Claws": "#ffffff" } },
+    { "name": "🗡️ Tru Tiên Cổ Kiếm", "colors": { "Body": "#0a192f", "Markings": "#1e3a8a", "Flank": "#3b82f6", "Underbelly": "#93c5fd", "Detail": "#ef4444", "Display": "#f87171", "Eyes": "#ef4444", "Mouth": "#030712", "Teeth": "#ffffff", "Claws": "#3b82f6" } },
+    { "name": "🐉 Thanh Long Thần Thú", "colors": { "Body": "#022c22", "Markings": "#064e3b", "Flank": "#059669", "Underbelly": "#34d399", "Detail": "#38bdf8", "Display": "#67e8f9", "Eyes": "#facc15", "Mouth": "#021c16", "Teeth": "#ffffff", "Claws": "#38bdf8" } },
+    { "name": "🐯 Bạch Hổ Sát Thần", "colors": { "Body": "#f8fafc", "Markings": "#1e293b", "Flank": "#cbd5e1", "Underbelly": "#ffffff", "Detail": "#3b82f6", "Display": "#60a5fa", "Eyes": "#00f0ff", "Mouth": "#0f172a", "Teeth": "#ffffff", "Claws": "#0f172a" } },
+    { "name": "🦅 Chu Tước Niết Bàn", "colors": { "Body": "#450a0a", "Markings": "#7f1d1d", "Flank": "#dc2626", "Underbelly": "#f97316", "Detail": "#fbbf24", "Display": "#fde047", "Eyes": "#fde047", "Mouth": "#2a0606", "Teeth": "#ffffff", "Claws": "#f97316" } },
+    { "name": "🐢 Huyền Vũ Trấn Bắc", "colors": { "Body": "#0f172a", "Markings": "#1e293b", "Flank": "#042f2e", "Underbelly": "#0f766e", "Detail": "#14b8a6", "Display": "#5eead4", "Eyes": "#2dd4bf", "Mouth": "#020617", "Teeth": "#ffffff", "Claws": "#0d9488" } },
+    { "name": "⚡ Cửu Thiên Lôi Kiếp", "colors": { "Body": "#0b0c10", "Markings": "#1f2833", "Flank": "#45a29e", "Underbelly": "#66fcf1", "Detail": "#c5c6c7", "Display": "#ffffff", "Eyes": "#66fcf1", "Mouth": "#0b0c10", "Teeth": "#ffffff", "Claws": "#45a29e" } },
+    { "name": "🌸 Đào Hoa Đảo Chủ", "colors": { "Body": "#4c0519", "Markings": "#881337", "Flank": "#fb7185", "Underbelly": "#ffe4e6", "Detail": "#15803d", "Display": "#86efac", "Eyes": "#be123c", "Mouth": "#4c0519", "Teeth": "#ffffff", "Claws": "#15803d" } },
+    { "name": "🎋 Tử Trúc Lâm Tự", "colors": { "Body": "#1e1b4b", "Markings": "#312e81", "Flank": "#4338ca", "Underbelly": "#818cf8", "Detail": "#16a34a", "Display": "#86efac", "Eyes": "#a7f3d0", "Mouth": "#0f172a", "Teeth": "#ffffff", "Claws": "#16a34a" } },
+    { "name": "🪷 Hồng Liên Nghiệp Hỏa", "colors": { "Body": "#3f000f", "Markings": "#66001a", "Flank": "#b3003b", "Underbelly": "#ff3366", "Detail": "#ffd700", "Display": "#ffcc00", "Eyes": "#ffffff", "Mouth": "#26000a", "Teeth": "#ffffff", "Claws": "#ff3366" } },
+    { "name": "🍶 Túy Quyền Tiên Ông", "colors": { "Body": "#3e2723", "Markings": "#5d4037", "Flank": "#8d6e63", "Underbelly": "#d7ccc8", "Detail": "#ff6f00", "Display": "#ffa000", "Eyes": "#ffe082", "Mouth": "#271610", "Teeth": "#f5f5f5", "Claws": "#5d4037" } },
+    { "name": "📜 Phù Chú Đạo Sĩ", "colors": { "Body": "#422006", "Markings": "#713f12", "Flank": "#ca8a04", "Underbelly": "#fef08a", "Detail": "#dc2626", "Display": "#ef4444", "Eyes": "#dc2626", "Mouth": "#291505", "Teeth": "#ffffff", "Claws": "#ca8a04" } },
+    { "name": "🗡️ Kiếm Ma Độc Cô", "colors": { "Body": "#18181b", "Markings": "#27272a", "Flank": "#52525b", "Underbelly": "#a1a1aa", "Detail": "#e4e4e7", "Display": "#38bdf8", "Eyes": "#38bdf8", "Mouth": "#09090b", "Teeth": "#ffffff", "Claws": "#71717a" } },
+    { "name": "☁️ Đằng Vân Giá Vũ", "colors": { "Body": "#1e293b", "Markings": "#334155", "Flank": "#64748b", "Underbelly": "#f1f5f9", "Detail": "#38bdf8", "Display": "#93c5fd", "Eyes": "#60a5fa", "Mouth": "#0f172a", "Teeth": "#ffffff", "Claws": "#f1f5f9" } },
+    { "name": "🐉 Lục Trảo Kim Long", "colors": { "Body": "#422006", "Markings": "#78350f", "Flank": "#b45309", "Underbelly": "#facc15", "Detail": "#fef08a", "Display": "#ffffff", "Eyes": "#dc2626", "Mouth": "#291505", "Teeth": "#ffffff", "Claws": "#facc15" } },
+    { "name": "🩸 Ma Đạo Tổ Sư", "colors": { "Body": "#09090b", "Markings": "#18181b", "Flank": "#450a0a", "Underbelly": "#991b1b", "Detail": "#ef4444", "Display": "#f87171", "Eyes": "#ef4444", "Mouth": "#000000", "Teeth": "#ffffff", "Claws": "#ef4444" } },
+    { "name": "❄️ Băng Phách Hàn Quang", "colors": { "Body": "#082f49", "Markings": "#075985", "Flank": "#0284c7", "Underbelly": "#bae6fd", "Detail": "#e0f2fe", "Display": "#ffffff", "Eyes": "#38bdf8", "Mouth": "#031c2e", "Teeth": "#ffffff", "Claws": "#bae6fd" } },
+    { "name": "⛰️ Ngũ Hành Sơn Thạch", "colors": { "Body": "#292524", "Markings": "#44403c", "Flank": "#78716c", "Underbelly": "#a8a29e", "Detail": "#65a30d", "Display": "#84cc16", "Eyes": "#facc15", "Mouth": "#1c1917", "Teeth": "#e7e5e4", "Claws": "#57534e" } },
+    { "name": "🔮 Hóa Thần Xuất Khiếu", "colors": { "Body": "#030712", "Markings": "#111827", "Flank": "#374151", "Underbelly": "#c084fc", "Detail": "#e879f9", "Display": "#00f0ff", "Eyes": "#00f0ff", "Mouth": "#030712", "Teeth": "#ffffff", "Claws": "#c084fc" } },
+    { "name": "🍃 Thập Diện Mai Phục", "colors": { "Body": "#14532d", "Markings": "#166534", "Flank": "#15803d", "Underbelly": "#86efac", "Detail": "#ca8a04", "Display": "#eab308", "Eyes": "#eab308", "Mouth": "#052e16", "Teeth": "#ffffff", "Claws": "#166534" } },
+    { "name": "🪕 Cổ Cầm U Tịch", "colors": { "Body": "#2d1606", "Markings": "#4a2810", "Flank": "#784724", "Underbelly": "#d6b896", "Detail": "#22d3ee", "Display": "#67e8f9", "Eyes": "#22d3ee", "Mouth": "#170a02", "Teeth": "#faf5f0", "Claws": "#4a2810" } },
+    { "name": "🩸 Vạn Độc Xà Vương", "colors": { "Body": "#022c22", "Markings": "#064e3b", "Flank": "#10b981", "Underbelly": "#34d399", "Detail": "#a855f7", "Display": "#c084fc", "Eyes": "#ec4899", "Mouth": "#021c16", "Teeth": "#a7f3d0", "Claws": "#a855f7" } },
+    { "name": "🍵 Trà Đạo Thiền Tông", "colors": { "Body": "#1b2e1b", "Markings": "#2a472a", "Flank": "#406940", "Underbelly": "#8fbc8f", "Detail": "#d2b48c", "Display": "#f5f5dc", "Eyes": "#deb887", "Mouth": "#111f11", "Teeth": "#ffffff", "Claws": "#406940" } },
+    { "name": "🪞 Càn Khôn Bảo Kính", "colors": { "Body": "#0f172a", "Markings": "#1e293b", "Flank": "#334155", "Underbelly": "#cbd5e1", "Detail": "#facc15", "Display": "#38bdf8", "Eyes": "#38bdf8", "Mouth": "#090d16", "Teeth": "#ffffff", "Claws": "#facc15" } },
+    { "name": "🏮 Minh Đăng Dẫn Lối", "colors": { "Body": "#2b0000", "Markings": "#590000", "Flank": "#990000", "Underbelly": "#ff4d4d", "Detail": "#ffe066", "Display": "#ffffff", "Eyes": "#ffe066", "Mouth": "#1a0000", "Teeth": "#ffffff", "Claws": "#990000" } },
+    { "name": "🦊 Cửu Vĩ Linh Hồ", "colors": { "Body": "#ffffff", "Markings": "#fed7aa", "Flank": "#fb923c", "Underbelly": "#ea580c", "Detail": "#db2777", "Display": "#f472b6", "Eyes": "#db2777", "Mouth": "#9a3412", "Teeth": "#ffffff", "Claws": "#ea580c" } },
+    { "name": "🪓 Bàn Cổ Khai Thiên", "colors": { "Body": "#1c1917", "Markings": "#292524", "Flank": "#57534e", "Underbelly": "#b45309", "Detail": "#f59e0b", "Display": "#fbbf24", "Eyes": "#f59e0b", "Mouth": "#0c0a09", "Teeth": "#e7e5e4", "Claws": "#78716c" } },
+    { "name": "🏹 Hậu Nghệ Xạ Nhật", "colors": { "Body": "#3b1103", "Markings": "#702206", "Flank": "#c2410c", "Underbelly": "#ea580c", "Detail": "#facc15", "Display": "#fef08a", "Eyes": "#ffffff", "Mouth": "#240a02", "Teeth": "#ffffff", "Claws": "#c2410c" } },
+    { "name": "🌕 Hằng Nga Băng Cung", "colors": { "Body": "#0f172a", "Markings": "#1e293b", "Flank": "#475569", "Underbelly": "#e2e8f0", "Detail": "#fbcfe8", "Display": "#f472b6", "Eyes": "#93c5fd", "Mouth": "#090d16", "Teeth": "#ffffff", "Claws": "#e2e8f0" } },
+    { "name": "🌊 Đông Hải Long Vương", "colors": { "Body": "#032b43", "Markings": "#054a75", "Flank": "#0b72b5", "Underbelly": "#1399f0", "Detail": "#f9c631", "Display": "#ffe17d", "Eyes": "#f9c631", "Mouth": "#021c2c", "Teeth": "#ffffff", "Claws": "#f9c631" } },
+    { "name": "👑 Ngọc Hoàng Thượng Đế", "colors": { "Body": "#2e2300", "Markings": "#574200", "Flank": "#a88000", "Underbelly": "#ffd700", "Detail": "#dc2626", "Display": "#ef4444", "Eyes": "#00f0ff", "Mouth": "#1a1400", "Teeth": "#ffffff", "Claws": "#ffd700" } },
+    { "name": "🧘 Đạt Ma Sư Tổ", "colors": { "Body": "#332211", "Markings": "#55381b", "Flank": "#88592b", "Underbelly": "#cc8844", "Detail": "#b83a1b", "Display": "#e0532d", "Eyes": "#ffffff", "Mouth": "#1f140a", "Teeth": "#e8d8c8", "Claws": "#55381b" } },
+    { "name": "🕸️ Bàn Tơ Động Nữ Vương", "colors": { "Body": "#12001a", "Markings": "#260036", "Flank": "#4d006e", "Underbelly": "#8600c2", "Detail": "#00ffaa", "Display": "#66ffcc", "Eyes": "#ff0066", "Mouth": "#0d0014", "Teeth": "#ffffff", "Claws": "#00ffaa" } },
+    { "name": "🔥 Hỏa Diệm Sơn Thiết Phiến", "colors": { "Body": "#260500", "Markings": "#4d0a00", "Flank": "#8a1200", "Underbelly": "#d62400", "Detail": "#22c55e", "Display": "#4ade80", "Eyes": "#facc15", "Mouth": "#1a0300", "Teeth": "#ffffff", "Claws": "#22c55e" } },
+    { "name": "🐃 Ngưu Ma Vương Bá Đạo", "colors": { "Body": "#14110f", "Markings": "#26211d", "Flank": "#423a33", "Underbelly": "#665a50", "Detail": "#b91c1c", "Display": "#ef4444", "Eyes": "#ef4444", "Mouth": "#0d0b0a", "Teeth": "#e6e0db", "Claws": "#423a33" } },
+    { "name": "🦚 Khổng Tước Minh Vương", "colors": { "Body": "#002b28", "Markings": "#004d47", "Flank": "#008075", "Underbelly": "#00c4b4", "Detail": "#d97706", "Display": "#fbbf24", "Eyes": "#38bdf8", "Mouth": "#001a18", "Teeth": "#ffffff", "Claws": "#d97706" } },
+    { "name": "🌸 Quỳnh Hoa Nở Đêm", "colors": { "Body": "#0a0a14", "Markings": "#141429", "Flank": "#292952", "Underbelly": "#e0e0eb", "Detail": "#ff66cc", "Display": "#ffffff", "Eyes": "#ff66cc", "Mouth": "#05050a", "Teeth": "#ffffff", "Claws": "#e0e0eb" } },
+    { "name": "🏯 Hoàng Hôn Tử Cấm Thành", "colors": { "Body": "#2e0f06", "Markings": "#521a0a", "Flank": "#8c2c11", "Underbelly": "#d9451a", "Detail": "#eab308", "Display": "#facc15", "Eyes": "#fde047", "Mouth": "#1c0903", "Teeth": "#ffffff", "Claws": "#8c2c11" } },
+    { "name": "🌬️ Ngự Phong Tiên Kiếm", "colors": { "Body": "#082026", "Markings": "#0f3640", "Flank": "#1a5c6e", "Underbelly": "#298fa8", "Detail": "#64e2ff", "Display": "#ffffff", "Eyes": "#64e2ff", "Mouth": "#041217", "Teeth": "#ffffff", "Claws": "#298fa8" } },
+    { "name": "🪐 Bát Quái Đồ Trận", "colors": { "Body": "#111827", "Markings": "#1f2937", "Flank": "#374151", "Underbelly": "#9ca3af", "Detail": "#f59e0b", "Display": "#10b981", "Eyes": "#f59e0b", "Mouth": "#030712", "Teeth": "#ffffff", "Claws": "#10b981" } }
+  ],
+  "🧪 Đột Biến Gen, Độc Tố & Phóng Xạ": [
+    { "name": "☢️ Lò Phản Ứng Chernobyl", "colors": { "Body": "#0d1f0d", "Markings": "#1a3d1a", "Flank": "#2e6b2e", "Underbelly": "#39ff14", "Detail": "#ffff00", "Display": "#ffffff", "Eyes": "#39ff14", "Mouth": "#050d05", "Teeth": "#ccffcc", "Claws": "#39ff14" } },
+    { "name": "☣️ Rác Thải Sinh Học Biohazard", "colors": { "Body": "#1a1600", "Markings": "#332c00", "Flank": "#665900", "Underbelly": "#b39c00", "Detail": "#ffea00", "Display": "#39ff14", "Eyes": "#ffea00", "Mouth": "#0d0b00", "Teeth": "#ffffff", "Claws": "#39ff14" } },
+    { "name": "🧪 Axit Ăn Mòn Kim Loại", "colors": { "Body": "#002611", "Markings": "#004d22", "Flank": "#008a3d", "Underbelly": "#00e665", "Detail": "#ccff00", "Display": "#ffffff", "Eyes": "#ccff00", "Mouth": "#001409", "Teeth": "#ccffdd", "Claws": "#00e665" } },
+    { "name": "🧬 Thí Nghiệm Đột Biến X-09", "colors": { "Body": "#180026", "Markings": "#30004d", "Flank": "#600099", "Underbelly": "#a000ff", "Detail": "#00ff99", "Display": "#00ffff", "Eyes": "#00ff99", "Mouth": "#0c0014", "Teeth": "#ffffff", "Claws": "#00ff99" } },
+    { "name": "🧫 Nấm Mốc Ký Sinh Cordyceps", "colors": { "Body": "#261a0d", "Markings": "#402c17", "Flank": "#6b4a27", "Underbelly": "#a6733c", "Detail": "#f97316", "Display": "#fb923c", "Eyes": "#ea580c", "Mouth": "#171008", "Teeth": "#e0d3c5", "Claws": "#f97316" } },
+    { "name": "🦠 Siêu Virus Lây Nhiễm", "colors": { "Body": "#260011", "Markings": "#4d0022", "Flank": "#8a003e", "Underbelly": "#d60060", "Detail": "#00f0ff", "Display": "#70f7ff", "Eyes": "#00f0ff", "Mouth": "#140009", "Teeth": "#ffd6e7", "Claws": "#00f0ff" } },
+    { "name": "☣️ Độc Tố Xyanua Chết Người", "colors": { "Body": "#031c26", "Markings": "#053447", "Flank": "#0a5b7d", "Underbelly": "#118ebf", "Detail": "#f43f5e", "Display": "#fb7185", "Eyes": "#f43f5e", "Mouth": "#010d12", "Teeth": "#ffffff", "Claws": "#f43f5e" } },
+    { "name": "🧪 Huyết Thanh Dị Biến Hulk", "colors": { "Body": "#042106", "Markings": "#09420d", "Flank": "#127a19", "Underbelly": "#1ec92a", "Detail": "#4c1d95", "Display": "#7c3aed", "Eyes": "#a7f3d0", "Mouth": "#021203", "Teeth": "#ffffff", "Claws": "#4c1d95" } },
+    { "name": "🐸 Ếch Phi Tiêu Độc Vàng", "colors": { "Body": "#000000", "Markings": "#1a1a1a", "Flank": "#ffd700", "Underbelly": "#ffea00", "Detail": "#00e5ff", "Display": "#ffffff", "Eyes": "#000000", "Mouth": "#000000", "Teeth": "#ffffff", "Claws": "#ffd700" } },
+    { "name": "🦂 Bọ Cạp Đêm Sa Mạc", "colors": { "Body": "#0a0a0f", "Markings": "#14141f", "Flank": "#242438", "Underbelly": "#3d3d5c", "Detail": "#00ffcc", "Display": "#39ff14", "Eyes": "#00ffcc", "Mouth": "#050508", "Teeth": "#ffffff", "Claws": "#00ffcc" } },
+    { "name": "🐙 Bạch Tuộc Đốm Xanh Tử Thần", "colors": { "Body": "#4a2800", "Markings": "#804500", "Flank": "#cc6e00", "Underbelly": "#ff9924", "Detail": "#00d4ff", "Display": "#0066ff", "Eyes": "#00d4ff", "Mouth": "#291600", "Teeth": "#ffffff", "Claws": "#00d4ff" } },
+    { "name": "🍄 Nấm Độc Amanita Đỏ", "colors": { "Body": "#3b0000", "Markings": "#660000", "Flank": "#b30000", "Underbelly": "#ff1a1a", "Detail": "#ffffff", "Display": "#ffffff", "Eyes": "#ffffff", "Mouth": "#1f0000", "Teeth": "#ffffff", "Claws": "#ffffff" } },
+    { "name": "🧪 Nọc Rắn Mamba Đen", "colors": { "Body": "#050505", "Markings": "#121212", "Flank": "#1f1f1f", "Underbelly": "#2e2e2e", "Detail": "#9400d3", "Display": "#ba55d3", "Eyes": "#00ff7f", "Mouth": "#000000", "Teeth": "#ffffff", "Claws": "#9400d3" } },
+    { "name": "💨 Khí Độc Thần Kinh Sarin", "colors": { "Body": "#121c17", "Markings": "#20332a", "Flank": "#345445", "Underbelly": "#51826b", "Detail": "#98fb98", "Display": "#ffffff", "Eyes": "#98fb98", "Mouth": "#0a0f0c", "Teeth": "#e8f5ed", "Claws": "#51826b" } },
+    { "name": "🛢️ Thủy Ngân Lỏng Bốc Hơi", "colors": { "Body": "#1f2429", "Markings": "#323a42", "Flank": "#505c69", "Underbelly": "#8093a6", "Detail": "#c0d6eb", "Display": "#ffffff", "Eyes": "#e0f0ff", "Mouth": "#101317", "Teeth": "#ffffff", "Claws": "#8093a6" } },
+    { "name": "💀 Bức Xạ Gamma Cực Đại", "colors": { "Body": "#001f05", "Markings": "#003d0a", "Flank": "#006611", "Underbelly": "#00a31b", "Detail": "#76ff03", "Display": "#ccff90", "Eyes": "#ffffff", "Mouth": "#001203", "Teeth": "#f1ffe6", "Claws": "#76ff03" } },
+    { "name": "🧪 Thử Nghiệm Hóa Trị Z-88", "colors": { "Body": "#1c1427", "Markings": "#312344", "Flank": "#4f396e", "Underbelly": "#7b59ab", "Detail": "#ff007f", "Display": "#ff66b3", "Eyes": "#00ffff", "Mouth": "#100b17", "Teeth": "#ffffff", "Claws": "#ff007f" } },
+    { "name": "🕷️ Nhện Độc Lưng Đỏ", "colors": { "Body": "#080808", "Markings": "#141414", "Flank": "#212121", "Underbelly": "#333333", "Detail": "#ff0000", "Display": "#ff3333", "Eyes": "#ff0000", "Mouth": "#000000", "Teeth": "#ffffff", "Claws": "#ff0000" } },
+    { "name": "🧬 ADN Đột Biến Neon", "colors": { "Body": "#050d1a", "Markings": "#0b1c36", "Flank": "#14325e", "Underbelly": "#215299", "Detail": "#00ff88", "Display": "#ff0088", "Eyes": "#ffff00", "Mouth": "#02060d", "Teeth": "#ffffff", "Claws": "#00ff88" } },
+    { "name": "🐡 Cá Nóc Độc Tetrodotoxin", "colors": { "Body": "#2e251b", "Markings": "#4a3c2c", "Flank": "#735e45", "Underbelly": "#b09371", "Detail": "#f59e0b", "Display": "#fbbf24", "Eyes": "#ef4444", "Mouth": "#1a150f", "Teeth": "#f5efe8", "Claws": "#735e45" } },
+    { "name": "🧪 Dung Dịch Thắt Lưng Bọ Ngựa", "colors": { "Body": "#0f2b18", "Markings": "#1b4d2b", "Flank": "#2a7542", "Underbelly": "#40ad62", "Detail": "#facc15", "Display": "#fef08a", "Eyes": "#facc15", "Mouth": "#091a0f", "Teeth": "#ffffff", "Claws": "#40ad62" } },
+    { "name": "☣️ Cúm Gia Cầm Biến Chủng", "colors": { "Body": "#2b0a0a", "Markings": "#4a1212", "Flank": "#781e1e", "Underbelly": "#b33030", "Detail": "#38bdf8", "Display": "#7dd3fc", "Eyes": "#fbbf24", "Mouth": "#1a0606", "Teeth": "#ffffff", "Claws": "#38bdf8" } },
+    { "name": "🧫 Vi Khuẩn Ăn Thịt Người", "colors": { "Body": "#1f1010", "Markings": "#361c1c", "Flank": "#592e2e", "Underbelly": "#8a4747", "Detail": "#4ade80", "Display": "#86efac", "Eyes": "#ef4444", "Mouth": "#120909", "Teeth": "#ebd8d8", "Claws": "#4ade80" } },
+    { "name": "🧪 Khí Clo Vàng Nhạt", "colors": { "Body": "#24260f", "Markings": "#3c401a", "Flank": "#5d6329", "Underbelly": "#8c943e", "Detail": "#d4de5f", "Display": "#f2f7a1", "Eyes": "#d4de5f", "Mouth": "#141408", "Teeth": "#fafce8", "Claws": "#8c943e" } },
+    { "name": "🦎 Thằn Lằn Độc Gila Monster", "colors": { "Body": "#120802", "Markings": "#241005", "Flank": "#401c09", "Underbelly": "#f97316", "Detail": "#fb923c", "Display": "#000000", "Eyes": "#000000", "Mouth": "#0a0401", "Teeth": "#fceee6", "Claws": "#401c09" } },
+    { "name": "🪱 Giun Ký Sinh Phát Quang", "colors": { "Body": "#1a0a24", "Markings": "#2e1240", "Flank": "#4d1e6b", "Underbelly": "#792fa8", "Detail": "#39ff14", "Display": "#76ff03", "Eyes": "#39ff14", "Mouth": "#0e0514", "Teeth": "#ffffff", "Claws": "#39ff14" } },
+    { "name": "🧪 Phospho Trắng Bốc Cháy", "colors": { "Body": "#29261a", "Markings": "#453f2c", "Flank": "#6e6547", "Underbelly": "#a89b6d", "Detail": "#fff3b0", "Display": "#ffffff", "Eyes": "#38bdf8", "Mouth": "#17150e", "Teeth": "#ffffff", "Claws": "#a89b6d" } },
+    { "name": "☢️ Bụi Phóng Xạ Nguyên Tử", "colors": { "Body": "#1a1a1a", "Markings": "#2b2b2b", "Flank": "#474747", "Underbelly": "#737373", "Detail": "#ff0055", "Display": "#ff4d88", "Eyes": "#00ffea", "Mouth": "#0d0d0d", "Teeth": "#ffffff", "Claws": "#ff0055" } },
+    { "name": "🧬 Huyết Tương Nhiễm Độc", "colors": { "Body": "#001a1a", "Markings": "#003333", "Flank": "#005959", "Underbelly": "#008f8f", "Detail": "#ff00aa", "Display": "#ff4db8", "Eyes": "#00ffff", "Mouth": "#000d0d", "Teeth": "#e0ffff", "Claws": "#ff00aa" } },
+    { "name": "🪰 Ruồi Trâu Đột Biến Khổng Lồ", "colors": { "Body": "#171c08", "Markings": "#27300e", "Flank": "#3e4d17", "Underbelly": "#607524", "Detail": "#a855f7", "Display": "#c084fc", "Eyes": "#dc2626", "Mouth": "#0d1004", "Teeth": "#eaf2d5", "Claws": "#3e4d17" } },
+    { "name": "🦠 Ký Sinh Trùng Máu Sâu", "colors": { "Body": "#2e0007", "Markings": "#4d000c", "Flank": "#7d0014", "Underbelly": "#bd001f", "Detail": "#eab308", "Display": "#facc15", "Eyes": "#ffffff", "Mouth": "#1a0004", "Teeth": "#ffffff", "Claws": "#eab308" } },
+    { "name": "🧪 Hóa Chất Tẩy Não Quân Đội", "colors": { "Body": "#121924", "Markings": "#1d293b", "Flank": "#2e3f59", "Underbelly": "#465f85", "Detail": "#f43f5e", "Display": "#fb7185", "Eyes": "#f43f5e", "Mouth": "#0a0e14", "Teeth": "#ffffff", "Claws": "#465f85" } },
+    { "name": "🦎 Tắc Kè Hoa Phản Quang", "colors": { "Body": "#002b11", "Markings": "#005421", "Flank": "#008f39", "Underbelly": "#00d957", "Detail": "#ff0066", "Display": "#ffcc00", "Eyes": "#00ffff", "Mouth": "#001709", "Teeth": "#ffffff", "Claws": "#ff0066" } },
+    { "name": "☣️ Zombie Khát Máu Bệnh Dịch", "colors": { "Body": "#1c211d", "Markings": "#2d362f", "Flank": "#455247", "Underbelly": "#677a6a", "Detail": "#991b1b", "Display": "#dc2626", "Eyes": "#facc15", "Mouth": "#0d0f0d", "Teeth": "#e3e8e4", "Claws": "#991b1b" } },
+    { "name": "🧪 Thuốc Súng Đen Phế Liệu", "colors": { "Body": "#141414", "Markings": "#212121", "Flank": "#333333", "Underbelly": "#4d4d4d", "Detail": "#ff6600", "Display": "#ffaa00", "Eyes": "#ff3300", "Mouth": "#0a0a0a", "Teeth": "#ffffff", "Claws": "#ff6600" } },
+    { "name": "🧫 Tế Bào Ung Thư Bất Tử", "colors": { "Body": "#2b0d1a", "Markings": "#4a172d", "Flank": "#732446", "Underbelly": "#ab3568", "Detail": "#00e5ff", "Display": "#80f0ff", "Eyes": "#00e5ff", "Mouth": "#17070e", "Teeth": "#fcebf2", "Claws": "#00e5ff" } },
+    { "name": "🐍 Hổ Mang Chúa Đột Biến Bạch Tạng", "colors": { "Body": "#fafafa", "Markings": "#f0f0f0", "Flank": "#e3e3e3", "Underbelly": "#ffffff", "Detail": "#dc2626", "Display": "#ef4444", "Eyes": "#dc2626", "Mouth": "#ffcccc", "Teeth": "#ffffff", "Claws": "#dc2626" } },
+    { "name": "🧪 Khí Độc Lưu Huỳnh Núi Lửa", "colors": { "Body": "#2e2b14", "Markings": "#4a4520", "Flank": "#736b32", "Underbelly": "#aba04a", "Detail": "#facc15", "Display": "#fef08a", "Eyes": "#ef4444", "Mouth": "#17160a", "Teeth": "#faf8e8", "Claws": "#facc15" } },
+    { "name": "🧬 Tái Sinh Tế Bào Thần Kinh", "colors": { "Body": "#0d0824", "Markings": "#180f40", "Flank": "#291a69", "Underbelly": "#422aa3", "Detail": "#00f0ff", "Display": "#ffffff", "Eyes": "#00f0ff", "Mouth": "#070412", "Teeth": "#ffffff", "Claws": "#00f0ff" } },
+    { "name": "☢️ Tro Tàn Lò Phản Ứng Hạt Nhân", "colors": { "Body": "#0a0a0a", "Markings": "#171717", "Flank": "#292929", "Underbelly": "#424242", "Detail": "#39ff14", "Display": "#00e5ff", "Eyes": "#39ff14", "Mouth": "#000000", "Teeth": "#d4d4d4", "Claws": "#39ff14" } }
+  ],
+  "🌊 Thủy Quái, Đáy Biển Sâu & San Hô Vực Thẳm": [
+    { "name": "🦑 Quái Vật Biển Sâu Kraken", "colors": { "Body": "#020c1a", "Markings": "#051c38", "Flank": "#0c3b73", "Underbelly": "#1763bf", "Detail": "#ff0055", "Display": "#ff4d88", "Eyes": "#ffff00", "Mouth": "#01050a", "Teeth": "#ffffff", "Claws": "#ff0055" } },
+    { "name": "🌊 Rãnh Biển Mariana Vực Thẳm", "colors": { "Body": "#010408", "Markings": "#030a14", "Flank": "#061529", "Underbelly": "#0c274a", "Detail": "#00ffcc", "Display": "#70ffe6", "Eyes": "#00ffcc", "Mouth": "#000103", "Teeth": "#ffffff", "Claws": "#00ffcc" } },
+    { "name": "🐡 Cá Lồng Đèn Anglerfish", "colors": { "Body": "#120f0d", "Markings": "#1f1b17", "Flank": "#332d26", "Underbelly": "#4f463c", "Detail": "#00f0ff", "Display": "#ffffff", "Eyes": "#ffffff", "Mouth": "#080706", "Teeth": "#e6dec8", "Claws": "#00f0ff" } },
+    { "name": "🪸 Rạn San Hô Phát Quang Hắc Ám", "colors": { "Body": "#0d021c", "Markings": "#1c0538", "Flank": "#340a66", "Underbelly": "#5912ad", "Detail": "#ff00aa", "Display": "#00ffc4", "Eyes": "#ff00aa", "Mouth": "#06010d", "Teeth": "#ffffff", "Claws": "#00ffc4" } },
+    { "name": "🦈 Cá Mập Cổ Đại Megalodon", "colors": { "Body": "#1e293b", "Markings": "#334155", "Flank": "#475569", "Underbelly": "#cbd5e1", "Detail": "#b91c1c", "Display": "#dc2626", "Eyes": "#000000", "Mouth": "#7f1d1d", "Teeth": "#ffffff", "Claws": "#475569" } },
+    { "name": "🪼 Sứa Hộp Độc Phát Sáng", "colors": { "Body": "#05131f", "Markings": "#0a243a", "Flank": "#134269", "Underbelly": "#216ba8", "Detail": "#e0f2fe", "Display": "#38bdf8", "Eyes": "#00f0ff", "Mouth": "#02090f", "Teeth": "#ffffff", "Claws": "#38bdf8" } },
+    { "name": "🐳 Cá Voi Lưng Gù Cổ Đại", "colors": { "Body": "#0c151c", "Markings": "#152430", "Flank": "#22394c", "Underbelly": "#3a5d7a", "Detail": "#93c5fd", "Display": "#bfdbfe", "Eyes": "#60a5fa", "Mouth": "#070c10", "Teeth": "#ffffff", "Claws": "#3a5d7a" } },
+    { "name": "🦀 Cua Tuyết Đáy Đại Dương", "colors": { "Body": "#260a0a", "Markings": "#451313", "Flank": "#6e2020", "Underbelly": "#a83232", "Detail": "#f8fafc", "Display": "#ffffff", "Eyes": "#000000", "Mouth": "#140505", "Teeth": "#ffffff", "Claws": "#f8fafc" } },
+    { "name": "🌊 Thủy Triều Đỏ Red Tide", "colors": { "Body": "#260308", "Markings": "#470710", "Flank": "#780e1c", "Underbelly": "#bd192f", "Detail": "#00f0ff", "Display": "#70f7ff", "Eyes": "#00f0ff", "Mouth": "#140104", "Teeth": "#ffd6dc", "Claws": "#00f0ff" } },
+    { "name": "🦭 Hải Cẩu Băng Giá Bắc Cực", "colors": { "Body": "#1c2226", "Markings": "#2e363d", "Flank": "#47535e", "Underbelly": "#6e7f8f", "Detail": "#e0f2fe", "Display": "#bae6fd", "Eyes": "#38bdf8", "Mouth": "#101417", "Teeth": "#ffffff", "Claws": "#47535e" } },
+    { "name": "🐟 Cá Rồng Biển Sâu Oarfish", "colors": { "Body": "#1a1c24", "Markings": "#2a2d3a", "Flank": "#43475c", "Underbelly": "#9ca3af", "Detail": "#ef4444", "Display": "#f87171", "Eyes": "#ef4444", "Mouth": "#0f1014", "Teeth": "#ffffff", "Claws": "#ef4444" } },
+    { "name": "🌊 Dòng Hải Lưu Gulf Stream", "colors": { "Body": "#021c29", "Markings": "#05334a", "Flank": "#0a567d", "Underbelly": "#1289c4", "Detail": "#38bdf8", "Display": "#bae6fd", "Eyes": "#ffffff", "Mouth": "#010e14", "Teeth": "#ffffff", "Claws": "#1289c4" } },
+    { "name": "🪸 Hải Quỳ Độc Xanh Ngọc", "colors": { "Body": "#022119", "Markings": "#053d2f", "Flank": "#0b664e", "Underbelly": "#149e7a", "Detail": "#f43f5e", "Display": "#fb7185", "Eyes": "#f43f5e", "Mouth": "#01120d", "Teeth": "#ffffff", "Claws": "#149e7a" } },
+    { "name": "🐚 Vỏ Ốc Hóa Thạch Triệu Năm", "colors": { "Body": "#261d16", "Markings": "#403126", "Flank": "#69513f", "Underbelly": "#a17e63", "Detail": "#d6bc9f", "Display": "#f5e8d7", "Eyes": "#a17e63", "Mouth": "#140f0b", "Teeth": "#f5ece1", "Claws": "#69513f" } },
+    { "name": "🦑 Mực Nang Khổng Lồ Tàng Hình", "colors": { "Body": "#1a1721", "Markings": "#2a2536", "Flank": "#423b54", "Underbelly": "#655a80", "Detail": "#00ffaa", "Display": "#ffff00", "Eyes": "#00ffaa", "Mouth": "#0f0d14", "Teeth": "#ffffff", "Claws": "#655a80" } },
+    { "name": "🌊 Xoáy Nước Đại Tây Dương", "colors": { "Body": "#051b2c", "Markings": "#0a2f4c", "Flank": "#124d7a", "Underbelly": "#1e79bf", "Detail": "#ffffff", "Display": "#93c5fd", "Eyes": "#38bdf8", "Mouth": "#020d17", "Teeth": "#ffffff", "Claws": "#124d7a" } },
+    { "name": "🦐 Tôm Tít Mantis Shrimp Sát Thủ", "colors": { "Body": "#002b1b", "Markings": "#005234", "Flank": "#0284c7", "Underbelly": "#ea580c", "Detail": "#eab308", "Display": "#ef4444", "Eyes": "#facc15", "Mouth": "#00140d", "Teeth": "#ffffff", "Claws": "#ef4444" } },
+    { "name": "🌊 Sóng Thần Tsunami Đêm", "colors": { "Body": "#0b1521", "Markings": "#122336", "Flank": "#1e3754", "Underbelly": "#305682", "Detail": "#f1f5f9", "Display": "#ffffff", "Eyes": "#93c5fd", "Mouth": "#060b12", "Teeth": "#ffffff", "Claws": "#305682" } },
+    { "name": "🐡 Cá Nóc Nhím Biển Sâu", "colors": { "Body": "#1f1a14", "Markings": "#362c22", "Flank": "#574737", "Underbelly": "#8a7259", "Detail": "#fbbf24", "Display": "#fef08a", "Eyes": "#00ffff", "Mouth": "#120e0b", "Teeth": "#f5efe6", "Claws": "#574737" } },
+    { "name": "🪸 Rừng Tảo Bẹ Khổng Lồ", "colors": { "Body": "#0d1f05", "Markings": "#17360a", "Flank": "#275711", "Underbelly": "#3f8a1c", "Detail": "#ca8a04", "Display": "#eab308", "Eyes": "#86efac", "Mouth": "#071203", "Teeth": "#ffffff", "Claws": "#275711" } },
+    { "name": "🦈 Cá Mập Đầu Búa Săn Đêm", "colors": { "Body": "#1a1e24", "Markings": "#282e36", "Flank": "#3e4652", "Underbelly": "#606b7a", "Detail": "#38bdf8", "Display": "#93c5fd", "Eyes": "#38bdf8", "Mouth": "#0f1217", "Teeth": "#ffffff", "Claws": "#3e4652" } },
+    { "name": "🪼 Sứa Ma Bất Tử Turritopsis", "colors": { "Body": "#21091a", "Markings": "#360f2a", "Flank": "#591a46", "Underbelly": "#8c296e", "Detail": "#ff80df", "Display": "#ffffff", "Eyes": "#ff80df", "Mouth": "#12050e", "Teeth": "#ffffff", "Claws": "#8c296e" } },
+    { "name": "🌊 Băng Đảo Trôi Bạt", "colors": { "Body": "#0e1e2b", "Markings": "#173045", "Flank": "#274c6b", "Underbelly": "#cbd5e1", "Detail": "#ffffff", "Display": "#e0f2fe", "Eyes": "#38bdf8", "Mouth": "#071017", "Teeth": "#ffffff", "Claws": "#cbd5e1" } },
+    { "name": "🪸 San Hô Não Hóa Thạch", "colors": { "Body": "#261d19", "Markings": "#40312b", "Flank": "#695249", "Underbelly": "#a38274", "Detail": "#f43f5e", "Display": "#fb7185", "Eyes": "#f43f5e", "Mouth": "#140f0d", "Teeth": "#f5eeea", "Claws": "#695249" } },
+    { "name": "🦑 Mực Ma Cà Rồng Vampire Squid", "colors": { "Body": "#260000", "Markings": "#450000", "Flank": "#730000", "Underbelly": "#b30000", "Detail": "#00f0ff", "Display": "#ffffff", "Eyes": "#00f0ff", "Mouth": "#140000", "Teeth": "#ffffff", "Claws": "#00f0ff" } },
+    { "name": "🐟 Cá Chình Điện Amazon", "colors": { "Body": "#1a1608", "Markings": "#2e270e", "Flank": "#4a3e17", "Underbelly": "#736024", "Detail": "#38bdf8", "Display": "#00ffff", "Eyes": "#00ffff", "Mouth": "#0d0b04", "Teeth": "#ffffff", "Claws": "#38bdf8" } },
+    { "name": "🌊 Miệng Phun Thủy Nhiệt Đáy Biển", "colors": { "Body": "#121212", "Markings": "#1f1f1f", "Flank": "#333333", "Underbelly": "#ea580c", "Detail": "#facc15", "Display": "#ffffff", "Eyes": "#facc15", "Mouth": "#080808", "Teeth": "#ffffff", "Claws": "#ea580c" } },
+    { "name": "🦪 Ngọc Trai Đen South Sea", "colors": { "Body": "#0d1117", "Markings": "#161b22", "Flank": "#21262d", "Underbelly": "#30363d", "Detail": "#a855f7", "Display": "#38bdf8", "Eyes": "#a855f7", "Mouth": "#05070a", "Teeth": "#ffffff", "Claws": "#30363d" } },
+    { "name": "🦈 Cá Mập Yêu Tinh Goblin Shark", "colors": { "Body": "#26171d", "Markings": "#3d252f", "Flank": "#613b4b", "Underbelly": "#965c74", "Detail": "#f472b6", "Display": "#fbcfe8", "Eyes": "#000000", "Mouth": "#140c0f", "Teeth": "#ffffff", "Claws": "#613b4b" } },
+    { "name": "🪸 Rừng San Hô Quạt Đỏ", "colors": { "Body": "#2e080b", "Markings": "#4d0e13", "Flank": "#801720", "Underbelly": "#c72633", "Detail": "#fde047", "Display": "#fef08a", "Eyes": "#fde047", "Mouth": "#1a0406", "Teeth": "#ffffff", "Claws": "#801720" } },
+    { "name": "🌊 Dòng Nước Lạnh Nam Cực", "colors": { "Body": "#071b26", "Markings": "#0d2e40", "Flank": "#174a66", "Underbelly": "#26729c", "Detail": "#a5f3fc", "Display": "#cffafe", "Eyes": "#ffffff", "Mouth": "#030d12", "Teeth": "#ffffff", "Claws": "#26729c" } },
+    { "name": "🦀 Cua Nhện Khổng Lồ Nhật Bản", "colors": { "Body": "#2e1208", "Markings": "#4d1e0d", "Flank": "#803316", "Underbelly": "#c45125", "Detail": "#ffffff", "Display": "#ffffff", "Eyes": "#000000", "Mouth": "#170904", "Teeth": "#ffffff", "Claws": "#ffffff" } },
+    { "name": "🐡 Cá Mặt Trăng Sunfish Biển", "colors": { "Body": "#171c21", "Markings": "#262e36", "Flank": "#3d4954", "Underbelly": "#607282", "Detail": "#cbd5e1", "Display": "#f1f5f9", "Eyes": "#38bdf8", "Mouth": "#0d1014", "Teeth": "#ffffff", "Claws": "#3d4954" } },
+    { "name": "🪼 Sứa Bờm Sư Tử Đỏ Thẫm", "colors": { "Body": "#2e0805", "Markings": "#4d0e08", "Flank": "#801910", "Underbelly": "#bd291c", "Detail": "#fb923c", "Display": "#fdba74", "Eyes": "#fdba74", "Mouth": "#170402", "Teeth": "#ffffff", "Claws": "#801910" } },
+    { "name": "🌊 Vực Thẳm Java Sâu Thẳm", "colors": { "Body": "#020d14", "Markings": "#041b29", "Flank": "#09334d", "Underbelly": "#11547d", "Detail": "#39ff14", "Display": "#76ff03", "Eyes": "#39ff14", "Mouth": "#01060a", "Teeth": "#ffffff", "Claws": "#09334d" } },
+    { "name": "🐟 Cá Thao Thức Đáy Bùn", "colors": { "Body": "#1c1813", "Markings": "#2e2720", "Flank": "#473d33", "Underbelly": "#6e5f50", "Detail": "#38bdf8", "Display": "#7dd3fc", "Eyes": "#facc15", "Mouth": "#0f0d0a", "Teeth": "#ebe5dc", "Claws": "#473d33" } },
+    { "name": "🪸 Đám Mây Sinh Vật Phù Du", "colors": { "Body": "#051724", "Markings": "#0b2b42", "Flank": "#14476b", "Underbelly": "#206ea3", "Detail": "#00ffcc", "Display": "#ffffff", "Eyes": "#00ffcc", "Mouth": "#020b12", "Teeth": "#ffffff", "Claws": "#206ea3" } },
+    { "name": "🦈 Cá Mập Voi Lốm Đốm Sao", "colors": { "Body": "#0d1f2d", "Markings": "#163247", "Flank": "#244d6b", "Underbelly": "#3a759e", "Detail": "#ffffff", "Display": "#ffffff", "Eyes": "#38bdf8", "Mouth": "#061017", "Teeth": "#ffffff", "Claws": "#3a759e" } },
+    { "name": "🦑 Mực Ống Đốm Lửa Đêm", "colors": { "Body": "#1a0808", "Markings": "#2e0f0f", "Flank": "#4d1a1a", "Underbelly": "#802d2d", "Detail": "#ff3b30", "Display": "#ff9500", "Eyes": "#34c759", "Mouth": "#0d0404", "Teeth": "#ffffff", "Claws": "#ff3b30" } },
+    { "name": "🌊 Trầm Tích Đáy Đại Dương", "colors": { "Body": "#14171a", "Markings": "#22272c", "Flank": "#363d45", "Underbelly": "#525c66", "Detail": "#67e8f9", "Display": "#a5f3fc", "Eyes": "#67e8f9", "Mouth": "#0a0c0d", "Teeth": "#f1f5f9", "Claws": "#525c66" } }
+  ],
+  "⏳ Thời Gian, Hư Không & Chiều Không Gian Thứ 4": [
+    { "name": "⏳ Đồng Hồ Cát Thời Gian", "colors": { "Body": "#2e2313", "Markings": "#4a3920", "Flank": "#785d34", "Underbelly": "#b88f51", "Detail": "#facc15", "Display": "#fef08a", "Eyes": "#38bdf8", "Mouth": "#17120a", "Teeth": "#faf5eb", "Claws": "#785d34" } },
+    { "name": "🌀 Lỗ Sâu Không Gian Wormhole", "colors": { "Body": "#050014", "Markings": "#0d002e", "Flank": "#1d005e", "Underbelly": "#3900a8", "Detail": "#00f0ff", "Display": "#ff00aa", "Eyes": "#00f0ff", "Mouth": "#02000a", "Teeth": "#ffffff", "Claws": "#00f0ff" } },
+    { "name": "🌌 Hư Không Vĩnh Hằng", "colors": { "Body": "#000000", "Markings": "#080808", "Flank": "#121212", "Underbelly": "#1f1f1f", "Detail": "#6366f1", "Display": "#818cf8", "Eyes": "#a5b4fc", "Mouth": "#000000", "Teeth": "#ffffff", "Claws": "#6366f1" } },
+    { "name": "⚡ Nghịch Lý Tiền Định Paradox", "colors": { "Body": "#170824", "Markings": "#290f40", "Flank": "#451a6b", "Underbelly": "#6c2ba6", "Detail": "#f43f5e", "Display": "#38bdf8", "Eyes": "#facc15", "Mouth": "#0c0412", "Teeth": "#ffffff", "Claws": "#f43f5e" } },
+    { "name": "🕰️ Kỷ Nguyên Hơi Nước Steampunk", "colors": { "Body": "#29180a", "Markings": "#422812", "Flank": "#69411f", "Underbelly": "#a36834", "Detail": "#eab308", "Display": "#ca8a04", "Eyes": "#38bdf8", "Mouth": "#140c05", "Teeth": "#f5ece4", "Claws": "#eab308" } },
+    { "name": "🪞 Thế Giới Gương Phản Chiếu", "colors": { "Body": "#0f172a", "Markings": "#1e293b", "Flank": "#334155", "Underbelly": "#cbd5e1", "Detail": "#00f0ff", "Display": "#ffffff", "Eyes": "#00f0ff", "Mouth": "#080d17", "Teeth": "#ffffff", "Claws": "#cbd5e1" } },
+    { "name": "🧊 Dòng Chảy Đóng Băng Thời Gian", "colors": { "Body": "#061826", "Markings": "#0d2c42", "Flank": "#17486b", "Underbelly": "#266f9e", "Detail": "#bae6fd", "Display": "#ffffff", "Eyes": "#38bdf8", "Mouth": "#030c14", "Teeth": "#ffffff", "Claws": "#bae6fd" } },
+    { "name": "🪐 Chiều Không Gian Thứ 4 Tesseract", "colors": { "Body": "#0f051d", "Markings": "#1b0a33", "Flank": "#311459", "Underbelly": "#552596", "Detail": "#22c55e", "Display": "#4ade80", "Eyes": "#22c55e", "Mouth": "#07020d", "Teeth": "#ffffff", "Claws": "#22c55e" } },
+    { "name": "🔮 Tiên Tri Vận Mệnh Omen", "colors": { "Body": "#1a0826", "Markings": "#2c1040", "Flank": "#481d66", "Underbelly": "#70309c", "Detail": "#fbbf24", "Display": "#fef08a", "Eyes": "#ffffff", "Mouth": "#0d0414", "Teeth": "#ffffff", "Claws": "#fbbf24" } },
+    { "name": "🌑 Nhật Thực Nghìn Năm", "colors": { "Body": "#050505", "Markings": "#121212", "Flank": "#212121", "Underbelly": "#333333", "Detail": "#ea580c", "Display": "#facc15", "Eyes": "#ffffff", "Mouth": "#000000", "Teeth": "#ffffff", "Claws": "#ea580c" } },
+    { "name": "🚪 Cánh Cổng Đa Vũ Trụ Multiverse", "colors": { "Body": "#0c0a21", "Markings": "#17143b", "Flank": "#292461", "Underbelly": "#463ea1", "Detail": "#ec4899", "Display": "#06b6d4", "Eyes": "#facc15", "Mouth": "#060510", "Teeth": "#ffffff", "Claws": "#ec4899" } },
+    { "name": "⌛ Vòng Lặp Vô Tận Ouroboros", "colors": { "Body": "#1a1708", "Markings": "#2e2910", "Flank": "#4d451e", "Underbelly": "#7a6e33", "Detail": "#eab308", "Display": "#fde047", "Eyes": "#ef4444", "Mouth": "#0d0c04", "Teeth": "#faf8eb", "Claws": "#eab308" } },
+    { "name": "⚡ Tốc Độ Ánh Sáng Warp Drive", "colors": { "Body": "#030712", "Markings": "#0f172a", "Flank": "#1e3a8a", "Underbelly": "#3b82f6", "Detail": "#ffffff", "Display": "#60a5fa", "Eyes": "#93c5fd", "Mouth": "#02040a", "Teeth": "#ffffff", "Claws": "#ffffff" } },
+    { "name": "🖤 Hư Vô Tiêu Biến Oblivion", "colors": { "Body": "#000000", "Markings": "#050505", "Flank": "#0a0a0a", "Underbelly": "#141414", "Detail": "#dc2626", "Display": "#ef4444", "Eyes": "#dc2626", "Mouth": "#000000", "Teeth": "#737373", "Claws": "#dc2626" } },
+    { "name": "🕰️ Con Lắc Foucault Cổ Quái", "colors": { "Body": "#261a12", "Markings": "#3d2a1f", "Flank": "#5e4233", "Underbelly": "#8c644f", "Detail": "#d97706", "Display": "#f59e0b", "Eyes": "#38bdf8", "Mouth": "#140e0a", "Teeth": "#f5eee9", "Claws": "#d97706" } },
+    { "name": "🌠 Vết Rách Không Thời Gian", "colors": { "Body": "#0a0517", "Markings": "#140a2b", "Flank": "#25144d", "Underbelly": "#3f2480", "Detail": "#00f0ff", "Display": "#ffffff", "Eyes": "#00f0ff", "Mouth": "#05030c", "Teeth": "#ffffff", "Claws": "#00f0ff" } },
+    { "name": "🔮 Quả Cầu Pha Lê Chiêm Tinh", "colors": { "Body": "#0e1324", "Markings": "#17203b", "Flank": "#263359", "Underbelly": "#3d5087", "Detail": "#a855f7", "Display": "#c084fc", "Eyes": "#38bdf8", "Mouth": "#070a12", "Teeth": "#ffffff", "Claws": "#a855f7" } },
+    { "name": "🧊 Hóa Thạch Kỷ Băng Hà", "colors": { "Body": "#172026", "Markings": "#24313a", "Flank": "#394a57", "Underbelly": "#576d7d", "Detail": "#bae6fd", "Display": "#e0f2fe", "Eyes": "#38bdf8", "Mouth": "#0c1114", "Teeth": "#ffffff", "Claws": "#576d7d" } },
+    { "name": "🌌 Vạch Đỏ Dịch Chuyển Redshift", "colors": { "Body": "#140508", "Markings": "#260b11", "Flank": "#451621", "Underbelly": "#732839", "Detail": "#f43f5e", "Display": "#fb7185", "Eyes": "#f43f5e", "Mouth": "#0a0304", "Teeth": "#ffffff", "Claws": "#f43f5e" } },
+    { "name": "⚡ Phân Rã Lượng Tử Decay", "colors": { "Body": "#061414", "Markings": "#0c2424", "Flank": "#163d3d", "Underbelly": "#265e5e", "Detail": "#2dd4bf", "Display": "#5eead4", "Eyes": "#2dd4bf", "Mouth": "#030a0a", "Teeth": "#e6fffa", "Claws": "#265e5e" } },
+    { "name": "🕰️ Đồng Hồ Nước Babylon", "colors": { "Body": "#211a12", "Markings": "#362c20", "Flank": "#544635", "Underbelly": "#7d6b55", "Detail": "#0284c7", "Display": "#38bdf8", "Eyes": "#0284c7", "Mouth": "#120e0a", "Teeth": "#faf5f0", "Claws": "#544635" } },
+    { "name": "🚪 Cổng Không Gian Nether Gate", "colors": { "Body": "#10041c", "Markings": "#200936", "Flank": "#3b135e", "Underbelly": "#65239e", "Detail": "#a855f7", "Display": "#e879f9", "Eyes": "#9333ea", "Mouth": "#08020e", "Teeth": "#ffffff", "Claws": "#a855f7" } },
+    { "name": "🪐 Vũ Trụ Song Song Parallel", "colors": { "Body": "#0a1128", "Markings": "#122047", "Flank": "#1e336e", "Underbelly": "#2e4da1", "Detail": "#f97316", "Display": "#fb923c", "Eyes": "#00f0ff", "Mouth": "#050914", "Teeth": "#ffffff", "Claws": "#f97316" } },
+    { "name": "⏳ Cát Bụi Thời Gian Vụn Vỡ", "colors": { "Body": "#241f17", "Markings": "#3b3327", "Flank": "#594e3e", "Underbelly": "#857662", "Detail": "#d4af37", "Display": "#fff099", "Eyes": "#d4af37", "Mouth": "#12100c", "Teeth": "#faf7f2", "Claws": "#594e3e" } },
+    { "name": "🔮 Tinh Cầu Mộng Cảnh Inception", "colors": { "Body": "#1a0d24", "Markings": "#2d183d", "Flank": "#48295e", "Underbelly": "#6f428f", "Detail": "#38bdf8", "Display": "#f472b6", "Eyes": "#fde047", "Mouth": "#0d0612", "Teeth": "#ffffff", "Claws": "#38bdf8" } },
+    { "name": "🌑 Vùng Tối Mặt Trăng Dark Side", "colors": { "Body": "#08080a", "Markings": "#121217", "Flank": "#1e1e24", "Underbelly": "#303038", "Detail": "#60a5fa", "Display": "#93c5fd", "Eyes": "#60a5fa", "Mouth": "#040405", "Teeth": "#ffffff", "Claws": "#303038" } },
+    { "name": "⚡ Tia Chớp Thời Gian Tachyon", "colors": { "Body": "#1f0514", "Markings": "#360b24", "Flank": "#59163d", "Underbelly": "#8c2763", "Detail": "#00f0ff", "Display": "#ffffff", "Eyes": "#00f0ff", "Mouth": "#10030a", "Teeth": "#ffffff", "Claws": "#00f0ff" } },
+    { "name": "🧊 Kỷ Băng Hà Vĩnh Cửu Permafrost", "colors": { "Body": "#0c171f", "Markings": "#142530", "Flank": "#203747", "Underbelly": "#36556b", "Detail": "#a5f3fc", "Display": "#e0f2fe", "Eyes": "#38bdf8", "Mouth": "#060b0f", "Teeth": "#ffffff", "Claws": "#36556b" } },
+    { "name": "🕰️ Bánh Răng Lịch Sử Kỷ Nguyên", "colors": { "Body": "#29211c", "Markings": "#3d322b", "Flank": "#5c4d43", "Underbelly": "#8a7567", "Detail": "#b45309", "Display": "#f59e0b", "Eyes": "#f59e0b", "Mouth": "#14100e", "Teeth": "#f5eee9", "Claws": "#5c4d43" } },
+    { "name": "🌌 Vết Lõm Trọng Lực Gravity Well", "colors": { "Body": "#03000a", "Markings": "#080017", "Flank": "#12002e", "Underbelly": "#220054", "Detail": "#c084fc", "Display": "#e879f9", "Eyes": "#ffffff", "Mouth": "#020005", "Teeth": "#ffffff", "Claws": "#c084fc" } },
+    { "name": "🚪 Cửa Sổ Xuyên Không Stargate", "colors": { "Body": "#05131f", "Markings": "#0a2236", "Flank": "#123754", "Underbelly": "#1e537d", "Detail": "#f59e0b", "Display": "#00f0ff", "Eyes": "#00f0ff", "Mouth": "#020a10", "Teeth": "#ffffff", "Claws": "#f59e0b" } },
+    { "name": "🪐 Hằng Số Planck Lượng Tử", "colors": { "Body": "#0d1b1e", "Markings": "#162c30", "Flank": "#234247", "Underbelly": "#366169", "Detail": "#10b981", "Display": "#34d399", "Eyes": "#6ee7b7", "Mouth": "#060d0f", "Teeth": "#e6fffa", "Claws": "#366169" } },
+    { "name": "⏳ Khoảnh Khắc Ngưng Đọng Stasis", "colors": { "Body": "#121a24", "Markings": "#1e2938", "Flank": "#2f3e52", "Underbelly": "#495e7a", "Detail": "#facc15", "Display": "#ffffff", "Eyes": "#38bdf8", "Mouth": "#090d12", "Teeth": "#ffffff", "Claws": "#495e7a" } },
+    { "name": "🔮 Ma Trận Ký Ức Deja Vu", "colors": { "Body": "#190826", "Markings": "#2a103d", "Flank": "#441c5e", "Underbelly": "#6a308f", "Detail": "#00ffcc", "Display": "#ff007f", "Eyes": "#00ffcc", "Mouth": "#0d0414", "Teeth": "#ffffff", "Claws": "#00ffcc" } },
+    { "name": "🌑 Chân Trời Sự Kiện Event Horizon", "colors": { "Body": "#000000", "Markings": "#080808", "Flank": "#141414", "Underbelly": "#242424", "Detail": "#f97316", "Display": "#facc15", "Eyes": "#ffffff", "Mouth": "#000000", "Teeth": "#ffffff", "Claws": "#f97316" } },
+    { "name": "⚡ Bước Nhảy Không Gian Hyperjump", "colors": { "Body": "#020c1f", "Markings": "#051738", "Flank": "#0b295e", "Underbelly": "#164599", "Detail": "#00f0ff", "Display": "#ffffff", "Eyes": "#00f0ff", "Mouth": "#010610", "Teeth": "#ffffff", "Claws": "#00f0ff" } },
+    { "name": "🧊 Hóa Thạch Hổ Phách Thời Gian", "colors": { "Body": "#2e1a05", "Markings": "#4a2c0d", "Flank": "#73471c", "Underbelly": "#b37336", "Detail": "#facc15", "Display": "#111111", "Eyes": "#111111", "Mouth": "#170d02", "Teeth": "#faebd7", "Claws": "#73471c" } },
+    { "name": "🕰️ Kim Đồng Hồ Định Mệnh", "colors": { "Body": "#1c1c1f", "Markings": "#2b2b30", "Flank": "#42424a", "Underbelly": "#63636e", "Detail": "#dc2626", "Display": "#facc15", "Eyes": "#dc2626", "Mouth": "#0e0e10", "Teeth": "#ffffff", "Claws": "#42424a" } },
+    { "name": "🌌 Tàn Dư Big Bang Nguyên Thủy", "colors": { "Body": "#0a0005", "Markings": "#1a000f", "Flank": "#330020", "Underbelly": "#5c003b", "Detail": "#fbbf24", "Display": "#f43f5e", "Eyes": "#38bdf8", "Mouth": "#050003", "Teeth": "#ffffff", "Claws": "#fbbf24" } },
+    { "name": "🚪 Cửa Hư Không Vô Tận", "colors": { "Body": "#000000", "Markings": "#0d0d0d", "Flank": "#1c1c1c", "Underbelly": "#303030", "Detail": "#39ff14", "Display": "#00f0ff", "Eyes": "#39ff14", "Mouth": "#000000", "Teeth": "#ffffff", "Claws": "#00f0ff" } }
+  ],
+  "💎 Đá Quý Hiếm, Khoáng Vật Lạ & Địa Chất": [
+    { "name": "💎 Kim Cương Máu Hope Diamond", "colors": { "Body": "#021226", "Markings": "#052247", "Flank": "#0b3b75", "Underbelly": "#1560b8", "Detail": "#dc2626", "Display": "#ef4444", "Eyes": "#ef4444", "Mouth": "#010913", "Teeth": "#ffffff", "Claws": "#dc2626" } },
+    { "name": "🌌 Đá Thiên Thạch Moldavite Xanh", "colors": { "Body": "#051f08", "Markings": "#0d3813", "Flank": "#185921", "Underbelly": "#2a8a37", "Detail": "#86efac", "Display": "#bbf7d0", "Eyes": "#86efac", "Mouth": "#021004", "Teeth": "#ffffff", "Claws": "#185921" } },
+    { "name": "🔮 Thạch Anh Tím Geode Sâu", "colors": { "Body": "#170826", "Markings": "#291042", "Flank": "#451e6b", "Underbelly": "#7336ad", "Detail": "#c084fc", "Display": "#f3e8ff", "Eyes": "#e879f9", "Mouth": "#0c0413", "Teeth": "#ffffff", "Claws": "#c084fc" } },
+    { "name": "💎 Ngọc Bích Đen Black Jade", "colors": { "Body": "#040d08", "Markings": "#0a1c12", "Flank": "#143021", "Underbelly": "#244d37", "Detail": "#4ade80", "Display": "#86efac", "Eyes": "#4ade80", "Mouth": "#020704", "Teeth": "#ffffff", "Claws": "#244d37" } },
+    { "name": "🪙 Đồng Thau Gỉ Cổ Vật Relic", "colors": { "Body": "#21160d", "Markings": "#362518", "Flank": "#543b29", "Underbelly": "#7d5b43", "Detail": "#14b8a6", "Display": "#2dd4bf", "Eyes": "#14b8a6", "Mouth": "#120c07", "Teeth": "#f5eee9", "Claws": "#14b8a6" } },
+    { "name": "💎 Tinh Thể Bismuth Cầu Vồng", "colors": { "Body": "#1e1b4b", "Markings": "#065f46", "Flank": "#0284c7", "Underbelly": "#c026d3", "Detail": "#eab308", "Display": "#f43f5e", "Eyes": "#00ffff", "Mouth": "#0f0d27", "Teeth": "#ffffff", "Claws": "#eab308" } },
+    { "name": "🪨 Đá Trầm Tích Vách Núi Grand Canyon", "colors": { "Body": "#33180d", "Markings": "#522919", "Flank": "#80432c", "Underbelly": "#b86849", "Detail": "#e09375", "Display": "#fad4c5", "Eyes": "#80432c", "Mouth": "#1a0c06", "Teeth": "#ffffff", "Claws": "#80432c" } },
+    { "name": "💎 Ngọc Lục Bảo Paraiba Tourmaline", "colors": { "Body": "#002426", "Markings": "#003d40", "Flank": "#00676b", "Underbelly": "#00a1a8", "Detail": "#00f0ff", "Display": "#80f8ff", "Eyes": "#00f0ff", "Mouth": "#001213", "Teeth": "#e0ffff", "Claws": "#00f0ff" } },
+    { "name": "🪙 Vàng Bạc Hợp Kim Electrum", "colors": { "Body": "#2e291b", "Markings": "#47402c", "Flank": "#73684a", "Underbelly": "#aba078", "Detail": "#facc15", "Display": "#ffffff", "Eyes": "#ffffff", "Mouth": "#17150e", "Teeth": "#fffdf5", "Claws": "#facc15" } },
+    { "name": "💎 Ngọc Hồng Lựu Rhodolite", "colors": { "Body": "#2e0514", "Markings": "#4d0c24", "Flank": "#7a173d", "Underbelly": "#b82a61", "Detail": "#f472b6", "Display": "#fbcfe8", "Eyes": "#f472b6", "Mouth": "#17020a", "Teeth": "#ffffff", "Claws": "#7a173d" } },
+    { "name": "🪨 Đá Bọt Núi Lửa Pumice", "colors": { "Body": "#242322", "Markings": "#383635", "Flank": "#545250", "Underbelly": "#7d7a77", "Detail": "#a8a5a2", "Display": "#d4d1cd", "Eyes": "#a8a5a2", "Mouth": "#121111", "Teeth": "#f5f5f5", "Claws": "#545250" } },
+    { "name": "💎 Lam Ngọc Đổi Màu Alexandrite", "colors": { "Body": "#091c1b", "Markings": "#123331", "Flank": "#1f5451", "Underbelly": "#358580", "Detail": "#be185d", "Display": "#f43f5e", "Eyes": "#f43f5e", "Mouth": "#050e0d", "Teeth": "#ffffff", "Claws": "#be185d" } },
+    { "name": "🪙 Sắt Thiên Thạch Widmanstatten", "colors": { "Body": "#171a1c", "Markings": "#262b2e", "Flank": "#3d444a", "Underbelly": "#5e6973", "Detail": "#94a3b8", "Display": "#e2e8f0", "Eyes": "#38bdf8", "Mouth": "#0c0d0e", "Teeth": "#ffffff", "Claws": "#94a3b8" } },
+    { "name": "💎 Ngọc Serpentine Da Rắn", "colors": { "Body": "#0d1f08", "Markings": "#183610", "Flank": "#29571e", "Underbelly": "#418233", "Detail": "#a3e635", "Display": "#bef264", "Eyes": "#000000", "Mouth": "#061004", "Teeth": "#ffffff", "Claws": "#29571e" } },
+    { "name": "🔮 Tinh Thể Thạch Anh Dâu Tây Strawberry", "colors": { "Body": "#2e0f14", "Markings": "#4a1c23", "Flank": "#78313c", "Underbelly": "#b55363", "Detail": "#fda4af", "Display": "#ffe4e6", "Eyes": "#fda4af", "Mouth": "#17080a", "Teeth": "#ffffff", "Claws": "#b55363" } },
+    { "name": "💎 Ngọc Lapis Lazuli Hoàng Gia", "colors": { "Body": "#08132e", "Markings": "#0f214d", "Flank": "#1a357a", "Underbelly": "#2b53ba", "Detail": "#facc15", "Display": "#ffffff", "Eyes": "#facc15", "Mouth": "#040a17", "Teeth": "#ffffff", "Claws": "#facc15" } },
+    { "name": "🪨 Đá Cẩm Thạch Trắng Carrara", "colors": { "Body": "#f1f5f9", "Markings": "#cbd5e1", "Flank": "#94a3b8", "Underbelly": "#ffffff", "Detail": "#475569", "Display": "#1e293b", "Eyes": "#38bdf8", "Mouth": "#64748b", "Teeth": "#ffffff", "Claws": "#475569" } },
+    { "name": "🪙 Quặng Đồng Chalcopyrite", "colors": { "Body": "#261a0a", "Markings": "#402d15", "Flank": "#694c25", "Underbelly": "#a37a40", "Detail": "#9333ea", "Display": "#06b6d4", "Eyes": "#eab308", "Mouth": "#140e05", "Teeth": "#ffffff", "Claws": "#9333ea" } },
+    { "name": "💎 Ngọc Bích Nephrite Cổ Xưa", "colors": { "Body": "#121c14", "Markings": "#1e2e21", "Flank": "#304735", "Underbelly": "#4c6e53", "Detail": "#86efac", "Display": "#bbf7d0", "Eyes": "#86efac", "Mouth": "#090e0a", "Teeth": "#ffffff", "Claws": "#304735" } },
+    { "name": "🔮 Thạch Anh Tóc Đỏ Rutilated", "colors": { "Body": "#241414", "Markings": "#3b2222", "Flank": "#5e3838", "Underbelly": "#8c5656", "Detail": "#dc2626", "Display": "#ef4444", "Eyes": "#ffffff", "Mouth": "#120a0a", "Teeth": "#fceeed", "Claws": "#dc2626" } },
+    { "name": "💎 Ngọc Chrysocolla Xanh Biển", "colors": { "Body": "#021c1a", "Markings": "#053330", "Flank": "#0a544f", "Underbelly": "#13827b", "Detail": "#0284c7", "Display": "#38bdf8", "Eyes": "#0284c7", "Mouth": "#010e0d", "Teeth": "#ffffff", "Claws": "#13827b" } },
+    { "name": "🪨 Đá Bazan Cột Đĩa Gành Đá Đĩa", "colors": { "Body": "#141414", "Markings": "#212121", "Flank": "#333333", "Underbelly": "#4d4d4d", "Detail": "#0284c7", "Display": "#38bdf8", "Eyes": "#ffffff", "Mouth": "#0a0a0a", "Teeth": "#f5f5f5", "Claws": "#333333" } },
+    { "name": "🪙 Quặng Vàng Tự Nhiên Nugget", "colors": { "Body": "#2e2105", "Markings": "#4a360b", "Flank": "#785a16", "Underbelly": "#b88c28", "Detail": "#fde047", "Display": "#ffffff", "Eyes": "#fde047", "Mouth": "#171002", "Teeth": "#fffdf0", "Claws": "#b88c28" } },
+    { "name": "💎 Tinh Thể Zircon Xanh Băng", "colors": { "Body": "#05161c", "Markings": "#0b2833", "Flank": "#144254", "Underbelly": "#236882", "Detail": "#67e8f9", "Display": "#cffafe", "Eyes": "#ffffff", "Mouth": "#020b0e", "Teeth": "#ffffff", "Claws": "#67e8f9" } },
+    { "name": "🔮 Thạch Anh Tóc Đen Hắc Ám", "colors": { "Body": "#080808", "Markings": "#141414", "Flank": "#242424", "Underbelly": "#e5e5e5", "Detail": "#000000", "Display": "#ffffff", "Eyes": "#00f0ff", "Mouth": "#000000", "Teeth": "#ffffff", "Claws": "#000000" } },
+    { "name": "💎 Ngọc Spessartite Cam Rực", "colors": { "Body": "#331200", "Markings": "#541e00", "Flank": "#8a3300", "Underbelly": "#cc4e04", "Detail": "#fb923c", "Display": "#fed7aa", "Eyes": "#ffffff", "Mouth": "#1a0900", "Teeth": "#ffffff", "Claws": "#8a3300" } },
+    { "name": "🪨 Đá Hoa Cương Granite Đỏ", "colors": { "Body": "#2b1414", "Markings": "#452222", "Flank": "#6e3a3a", "Underbelly": "#a35c5c", "Detail": "#1c1917", "Display": "#f5f5f4", "Eyes": "#1c1917", "Mouth": "#140a0a", "Teeth": "#f5ecec", "Claws": "#6e3a3a" } },
+    { "name": "🪙 Quặng Chì Galena Ánh Kim", "colors": { "Body": "#171a1c", "Markings": "#272b30", "Flank": "#3e444c", "Underbelly": "#5e6773", "Detail": "#94a3b8", "Display": "#ffffff", "Eyes": "#94a3b8", "Mouth": "#0c0d0e", "Teeth": "#ffffff", "Claws": "#5e6773" } },
+    { "name": "💎 Ngọc Charoite Tím Nga", "colors": { "Body": "#190824", "Markings": "#2a103d", "Flank": "#461e63", "Underbelly": "#72369e", "Detail": "#d8b4fe", "Display": "#f3e8ff", "Eyes": "#d8b4fe", "Mouth": "#0d0412", "Teeth": "#ffffff", "Claws": "#461e63" } },
+    { "name": "🔮 Tinh Thể Celestine Xanh Trời", "colors": { "Body": "#0d1824", "Markings": "#172738", "Flank": "#263e59", "Underbelly": "#41648c", "Detail": "#bae6fd", "Display": "#f0f9ff", "Eyes": "#bae6fd", "Mouth": "#070c12", "Teeth": "#ffffff", "Claws": "#41648c" } },
+    { "name": "💎 Ngọc Kunzite Hồng Phấn", "colors": { "Body": "#26101c", "Markings": "#3d1c2f", "Flank": "#61304d", "Underbelly": "#96527b", "Detail": "#f472b6", "Display": "#fdf2f8", "Eyes": "#f472b6", "Mouth": "#14080f", "Teeth": "#ffffff", "Claws": "#96527b" } },
+    { "name": "🪨 Đá Phiến Dầu Shales Đen", "colors": { "Body": "#0f1112", "Markings": "#1a1d1f", "Flank": "#2a2e30", "Underbelly": "#41474a", "Detail": "#eab308", "Display": "#facc15", "Eyes": "#eab308", "Mouth": "#08090a", "Teeth": "#ffffff", "Claws": "#2a2e30" } },
+    { "name": "🪙 Quặng Niken Ánh Bạc Xanh", "colors": { "Body": "#121f1c", "Markings": "#1f332f", "Flank": "#324f49", "Underbelly": "#4f7870", "Detail": "#5eead4", "Display": "#ccfbf1", "Eyes": "#5eead4", "Mouth": "#09100e", "Teeth": "#ffffff", "Claws": "#4f7870" } },
+    { "name": "💎 Ngọc Labradorite Phát Quang Xanh", "colors": { "Body": "#111827", "Markings": "#1f2937", "Flank": "#374151", "Underbelly": "#4b5563", "Detail": "#00f0ff", "Display": "#eab308", "Eyes": "#00f0ff", "Mouth": "#030712", "Teeth": "#ffffff", "Claws": "#00f0ff" } },
+    { "name": "🔮 Thạch Anh Xanh Aventurine", "colors": { "Body": "#0c2417", "Markings": "#153b26", "Flank": "#22593b", "Underbelly": "#36875b", "Detail": "#86efac", "Display": "#dcfce7", "Eyes": "#86efac", "Mouth": "#06120b", "Teeth": "#ffffff", "Claws": "#22593b" } },
+    { "name": "💎 Ngọc Sugilite Tím Hoàng Gia", "colors": { "Body": "#210626", "Markings": "#360c3d", "Flank": "#591963", "Underbelly": "#8c2e9c", "Detail": "#e879f9", "Display": "#fae8ff", "Eyes": "#e879f9", "Mouth": "#100312", "Teeth": "#ffffff", "Claws": "#591963" } },
+    { "name": "🪨 Đá Vôi Hang Động Thạch Nhũ", "colors": { "Body": "#24201a", "Markings": "#3b342b", "Flank": "#574e41", "Underbelly": "#807464", "Detail": "#cbd5e1", "Display": "#f8fafc", "Eyes": "#38bdf8", "Mouth": "#12100d", "Teeth": "#f5f3ef", "Claws": "#574e41" } },
+    { "name": "🪙 Quặng Thiếc Cassiterite Đen", "colors": { "Body": "#12100d", "Markings": "#1f1b17", "Flank": "#332d26", "Underbelly": "#524940", "Detail": "#ca8a04", "Display": "#eab308", "Eyes": "#ffffff", "Mouth": "#0a0907", "Teeth": "#e8e4df", "Claws": "#332d26" } },
+    { "name": "💎 Ngọc Thạch Anh Mắt Diều Hâu", "colors": { "Body": "#0a171f", "Markings": "#122530", "Flank": "#1e394a", "Underbelly": "#30556e", "Detail": "#38bdf8", "Display": "#7dd3fc", "Eyes": "#00f0ff", "Mouth": "#050b0f", "Teeth": "#ffffff", "Claws": "#1e394a" } },
+    { "name": "🔮 Tinh Thể Fluorite Đa Sắc Cực Quang", "colors": { "Body": "#0b1a1f", "Markings": "#142d36", "Flank": "#224754", "Underbelly": "#10b981", "Detail": "#a855f7", "Display": "#38bdf8", "Eyes": "#a855f7", "Mouth": "#060d10", "Teeth": "#ffffff", "Claws": "#10b981" } }
+  ]
+
+
+}
